@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="cache-control" content="max-age=0" />
+  <meta http-equiv="cache-control" content="no-cache" />
+  <meta http-equiv="expires" content="0" />
+  <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+  <meta http-equiv="pragma" content="no-cache" />
+
+  <title>Gallery</title>
+  <link rel="stylesheet" href="css/gallery.css">
+</head>
+
+<body>
+  <script src="js/js_backup/jquery-3.2.1.min.js"></script>
+  <script type="text/javascript">
+    var folder = "./galerie/";
+
+    $.ajax({
+      url : folder,
+      success: function (data) {
+          $(data).find("a").attr("href", function (i, val) {
+              if( val.match(/\.(jpe?g|png|gif)$/) ) { 
+                  $("#buffer").append( "<img class=\"slides\" src='"+ folder + val +"'>" );
+              } 
+          });
+      }
+    });
+  </script>
+  <div class="container">
+    <div id="sign">
+      <b>AnimeFest Gallery</b>
+    </div>
+    <div id="clock">
+      <b>14:40</b>
+    </div>
+    <div id="middlePart">
+      <div id="leftPic"></div>
+      <div id="rightPic"></div>
+      <div id="rightMidPic"></div>
+      <div id="leftMidPic"></div>
+      <div id="mainPic"></div>
+    </div>
+    <div id="buffer">
+      <img src="galerie/foto1.jpg">
+      <img src="galerie/foto2.jpg">
+      <img src="galerie/foto3.jpg">
+      <img src="galerie/foto4.jpg">
+      <img src="galerie/foto5.jpg">
+      <img src="galerie/foto6.jpg">
+      <img src="galerie/foto7.jpg">
+      <img src="galerie/foto8.jpg">
+      <img src="galerie/foto9.jpg">
+    </div>
+    <script type="text/javascript">
+      var slideIndex = 0;
+      carousel();
+
+      function carousel() {
+        var i;
+        var cln;
+        var lP = document.getElementById("leftPic");
+        var lMP = document.getElementById("leftMidPic");
+        var rP = document.getElementById("rightPic");
+        var rMP = document.getElementById("rightMidPic");
+        var mP = document.getElementById("mainPic");
+        if(lP.length != 0){
+          lP.innerHTML = '';
+        }if(lP.length != 0){
+          lMP.innerHTML = '';
+        }if(lP.length != 0){
+          rP.innerHTML = '';
+        }if(lP.length != 0){
+          rMP.innerHTML = '';
+        }if(lP.length != 0){
+          mP.innerHTML = '';
+        }
+        var x = document.getElementById("buffer").getElementsByTagName("img");
+        slideIndex++;
+        if (slideIndex-2 < 0){
+          cln = x[slideIndex-2+x.length].cloneNode();
+          rMP.appendChild(cln);
+        }
+        else{
+          cln = x[slideIndex-2].cloneNode();
+          rMP.appendChild(cln);
+        }
+        if (slideIndex-3 < 0){
+          cln = x[slideIndex-3+x.length].cloneNode();
+          rP.appendChild(cln);
+        }
+        else{
+          cln = x[slideIndex-3].cloneNode();
+          rP.appendChild(cln);
+        }
+        if (slideIndex > x.length-1){
+          cln = x[slideIndex-x.length].cloneNode();
+          lMP.appendChild(cln);
+        }
+        else{
+          cln = x[slideIndex].cloneNode();
+          lMP.appendChild(cln);
+        }
+        if (slideIndex+1 > x.length-1){
+          cln = x[slideIndex+1-x.length].cloneNode();
+          lP.appendChild(cln);
+        }
+        else{
+          cln = x[slideIndex+1].cloneNode();
+          lP.appendChild(cln);
+        }
+        if (slideIndex > x.length) {slideIndex = 1;}
+        cln = x[slideIndex-1].cloneNode(); 
+        mP.appendChild(cln);
+        setTimeout(carousel, 2000); // Change image every 2 seconds
+      }
+    </script>
+    
+  </div>
+</body>
+</html>

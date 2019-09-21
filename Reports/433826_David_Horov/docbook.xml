@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns="http://docbook.org/ns/docbook" version="5.0" xml:lang="en">
+    <info >
+        <title>Animefest - Report</title>
+        <author>
+            <personname>David Horov</personname>
+            <email>433826@mail.muni.cz</email>
+        </author>
+    </info>
+    <section>
+        <title>Introduction</title>
+        <para>Our task was to create an information screen for the festival Animefest.cz. It had to include multiple features such as displaying the current program from XML data, fetching images from Instagram with a specified hashtag, fully operational administration interface and so on.</para>
+        <para>My task was to create main logic of the application, showing messages, scene with static pages and scene with competition.</para>
+    </section>
+    <section>
+        <title>Solution</title>
+        <para>Application works on the basic of showing / hiding scenes. In configuration file, you can set which scenes you want to display during application time. Chosen scenes then loop in the application view. There is also the possibilty to set desired time of displaying each scene.</para>
+        <para>Showing messages works in cooperation with administration panel. After entering the message, panel in the bottom of application view is displayed. Messages are shifting from left to right - also known as ticker. When there is no message, panel is hidden. Messages are also shown in the scene with festival program. If there are no messages, announcement 'Žádne aktuality' is displayed. Limit for displaying messages in this scene is set to 3. Adding/Removing messages works with firebase database.</para>
+        <para>Scene with static pages shows images submitted in administration panel as urls. Every time this scene is displayed another image is shown (they are looping). Image is automatically resized to desired size - (1920px * 1080px).</para>
+        <para>Scene with competition displays another web page using iframe. Every time this scene is displayed, data on this webpage is reloaded. This scene is also resized to desired size.</para>
+    </section>
+     <section>
+        <title>Conclusion</title>
+        <para>
+            This project was really nice experience for me. I learned new things about fornt-end development and I expand my skills in developing web applications.
+        </para>
+    </section>
+
+</article>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns="http://docbook.org/ns/docbook" version="5.0" xml:lang="cz">
+    <info >
+        <title>Animefest - Report</title>
+        <author>
+            <personname>David Bielik</personname>
+            <email>433629@mail.muni.cz</email>
+        </author>
+    </info>
+    <section>
+        <title>Introduction</title>
+        <para>Our task was to create an information screen for the festival Animefest.cz. It had to include multiple features such as displaying the current program from XML data, fetching images from Instagram with a specified hashtag, fully operational administration interface and so on.</para>
+        <para>My part of the said task consisted of setting up the backend and creating a fully responsive frontend of the administration interface.</para>
+    </section>
+    <section>
+        <title>Solution</title>
+        <para>The technology used for the backend was Google's Firebase in which we've only used the authentication and real-time database features. The setup was pretty seamless and straightforward.</para>
+        <para>The core requirements for the backend were managing hashtags (for the Instagram API), static page urls, messages (these were special administrator messages that would popup over the current screen in the information panel) and the ability to remotely reload the information panel program XML data (if it was changed). </para>
+        <para>For the data management part (messages, urls, tags) I've used the designated firebase array handling (which was surprisingly tough to implement properly due to FirebaseRTD's data structure). The refresh was a simple boolean record in the json structure which was being listened on by the information panel. If it's value changed from the administration interface the XML got reloaded and the boolean value changed back.</para>
+        <para>For the frontend part of my task I've used the Materialize.css framework as it handles responsive design by its nature pretty well. The framework itself is good at helping you create sleek material UI.</para>
+    </section>
+    <section>
+        <title>Conclusion</title>
+        <para>Overall I am satisfied with the outcome of this project and also by the effort me and my colleagues have put in. The development was a pleasant experience as well as the team communication. I've learned a lot about Firebase and expaneded my knowledge of Javascript.</para>
+    </section>
+</article>

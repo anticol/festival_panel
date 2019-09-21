@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <title>Animefest - Report</title>
+  <meta name="generator" content="DocBook XSL Stylesheets V1.79.1" />
+  <link rel="stylesheet" type="text/css" href="docbook.css" />
+</head>
+
+<body>
+  <div xml:lang="en" class="article">
+    <div class="titlepage">
+      <div>
+        <div>
+          <h1 class="title"><a id="idm45603244047296"/>Animefest - Report</h1></div>
+        <div>
+          <div class="author">
+            <h3 class="author">David Bielik</h3><code class="email">&lt;<a class="email" href="mailto:433629@mail.muni.cz">433629@mail.muni.cz</a>&gt;</code></div>
+        </div>
+      </div>
+      <hr/>
+    </div>
+    <div class="toc">
+      <p><strong>Table of Contents</strong></p>
+      <dl class="toc"><dt><span class="section"><a href="#idm45603244042528">Introduction</a></span></dt><dt><span class="section"><a href="#idm45603217366576">Solution</a></span></dt><dt><span class="section"><a href="#idm45603217317712">Conclusion</a></span></dt></dl>
+    </div>
+    <div class="section">
+      <div class="titlepage">
+        <div>
+          <div>
+            <h2 class="title"><a id="idm45603244042528"/>Introduction</h2></div>
+        </div>
+      </div>
+      <p>Our task was to create an information screen for the festival Animefest.cz. It had to include multiple features such as displaying the current program from XML data, fetching images from Instagram with a specified hashtag, fully operational administration
+        interface and so on.
+      </p>
+      <p>My part of the said task consisted of setting up the backend and creating a fully responsive frontend of the administration interface.
+      </p>
+    </div>
+    <div class="section">
+      <div class="titlepage">
+        <div>
+          <div>
+            <h2 class="title"><a id="idm45603217366576"/>Solution</h2></div>
+        </div>
+      </div>
+      <p>My part of the said task consisted of setting up the backend and creating a fully responsive frontend of the administration interface.
+      </p>
+      <p>The core requirements for the backend were managing hashtags (for the Instagram API), static page urls, messages (these were special administrator messages that would popup over the current screen in the information panel) and the ability to remotely
+        reload the information panel program XML data (if it was changed).
+      </p>
+      <p>For the data management part (messages, urls, tags) I've used the designated firebase array handling (which was surprisingly tough to implement properly due to FirebaseRTD's data structure). The refresh was a simple boolean record in the json structure
+        which was being listened on by the information panel. If it's value changed from the administration interface the XML got reloaded and the boolean value changed back.
+      </p>
+      <p>
+        For the frontend part of my task I've used the Materialize.css framework as it handles responsive design by its nature pretty well. The framework itself is good at helping you create sleek material UI.
+      </p>
+    </div>
+    <div class="section">
+      <div class="titlepage">
+        <div>
+          <div>
+            <h2 class="title"><a id="idm45603217317712"/>Conclusion</h2></div>
+        </div>
+      </div>
+      <p>The project was successfully launch on Animefest and we received many positive reactions. I was honored to be a part of team and participate on develpment of a useful product for Animefest guests which helped to easily orientate in a festival's
+        program. I consider it as a great opportunity to improve my skills as a front-end web developer.
+      </p>
+    </div>
+  </div>
+</body>
+
+</html>

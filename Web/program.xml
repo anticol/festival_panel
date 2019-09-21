@@ -1,0 +1,1617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<program last-update="2017-04-30T23:30:20+02:00">
+    <akce>
+        <id>2</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>P</typ>
+        <nazev>Ženský crossplay</nazev>
+        <prednasejici>Airisu &amp; Tsukiko</prednasejici>
+        <code>airisu</code>
+        <anotace>Crossplayujete, nebo byste chtěli? Zajímáte se o crossplayery a jejich triky? Nemáte rádi jednotvárnost
+            a milujete, když můžete být každý den někým jiným? To jsme na jedné lodi! A jestli máte i masochistické
+            sklony, je pro vás crossplay to pravé ořechové. Stahováky, vycpávky, tejpy a další mučicí nástroje i s
+            návody na použití. Rády se bavíme, tak se přijďte pobavit s námi.
+        </anotace>
+        <anotace_en></anotace_en>
+        <medailonek>Jsme amatérské dámské duo soustředící se především na anime jaoi crossplayování. Airisu (18) a
+            Tsukiko (18) z Pardubic. Spojily jsme se v roce 2015 po dlouholetém přátelství. Naším prvním společným
+            crossplayem byl jaoi pairing Eren x Levi, který nám zůstal doteď a ještě stále nás neomrzel. Díky
+            flexibilitě a obrněnosti našeho fotografa se nemusíme bát negativní kritiky naší záliby. Do našeho
+            společného „podnikání“ přináší jedna z nás své znalosti z kadeřnické praxe, druhá kupříkladu domlouvá koně
+            pro kvalitnější vystupování postav.
+        </medailonek>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>78</priorita>
+        <board_image>/img/program2017/airisu_board.jpg</board_image>
+        <smallboard_image>/img/program2017/airisu_smallboard.jpg</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>4</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>P</typ>
+        <nazev>Klidná duše za Dark Souls</nazev>
+        <prednasejici>Lukáš „Ghost“ Haládik</prednasejici>
+        <code>ghost</code>
+        <anotace>Hidetaka Mijazaki je zajímavý člověk. Co ho vedlo ke stvoření kultovní série? Jak přemýšlí o hrách? V
+            čem je Dark Souls jedinečné? To všechno zkusíme objevit v této přednášce o Dark Souls.
+        </anotace>
+        <anotace_en></anotace_en>
+        <medailonek>Lukáš je Project Lead ve firmě Bohemia Interactive. Když se zrovna neprosekává hordami nepřátel, rád
+            hraje zajímavé hry a poznává nové lidi. Začal jako tester ve společnosti Electronic Arts a pracoval na
+            projektech jako Arma 3 nebo Project Argo.
+        </medailonek>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>76</priorita>
+        <board_image>/img/program2017/ghost_board.png</board_image>
+        <foto_image>/img/program2017/ghost_foto.jpg</foto_image>
+        <smallboard_image>/img/program2017/ghost_smallboard.png</smallboard_image>
+        <images>
+            <image>/img/program2017/ghost_screen2.jpg</image>
+            <image>/img/program2017/ghost_screen3.jpg</image>
+        </images>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>5</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>P</typ>
+        <nazev>Dějiny Japonska: Období Muromači</nazev>
+        <prednasejici>Ondřej „Alexej“ Kolařík</prednasejici>
+        <code>alexej</code>
+        <anotace>Při podrobném studiu jsou japonské dějiny fascinující mnohem víc než Pán prstenů a Hra o trůny
+            dohromady. Najdete zde epické příběhy (i když občas přibarvené), vznešené hrdiny i podlé zrádce, intriky v
+            intrikách jakož i věrnost jdoucí až za hrob. Období Muromači bylo právě takové, vyplněné občanskou válkou a
+            boji o moc mezi jednotlivými knížectvími. Na jedné straně císař pokoušející se obnovit svoji moc a na straně
+            druhé rody, které si chtěly udržet svůj vliv. A do toho klepou na dveře přicházející Evropané, kteří pomohli
+            přístav Nagasaki proslavit ještě dříve, než na něj spadla atomová bomba. Pojďme se na to podívat.
+        </anotace>
+        <anotace_en></anotace_en>
+        <medailonek>Věčný student, notorický otaku, rytíř bez bázně a hany, snílek, milovník (ne)dobrého pití, fanatický
+            knihomol, všudybyl a bůhvícoještě. Někdy pije čaj s mlékem a jakožto ukázkový narcis vystupuje na
+            přednáškách s velkou oblibou v obleku. Živě se zajímá o historii a jeho velkou zálibou jsou, mimo jiné,
+            právě dějiny Japonska.
+        </medailonek>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>74</priorita>
+        <board_image>/img/program2017/alexej_board.jpg</board_image>
+        <foto_image>/img/program2017/alexej_foto.jpg</foto_image>
+        <smallboard_image>/img/program2017/alexej_smallboard.jpg</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>7</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>P</typ>
+        <nazev>Figurky a panenky jako součást japonské subkultury</nazev>
+        <prednasejici>Vojtěch „Kuroneko“ Tomeš</prednasejici>
+        <code>kuroneko</code>
+        <anotace>Jaký je mezi figurkami a panenkami rozdíl? Jaký je jejich význam v Japonsku a ve světě? V rámci
+            přednášky se zaměříme právě na tyto otázky a ukážeme si, jak figurkový fenomén postupně proniká do
+            rozličných kulturních oblastí. Nezapomeneme ani na to, jak si figurky a panenky pořídit – ať už
+            prostřednictvím tuzemských obchodů nebo nákupem ze zahraničí.
+        </anotace>
+        <anotace_en></anotace_en>
+        <medailonek>Mgr. Vojtěch Tomeš vystudoval Sociální a mediální komunikaci na Univerzitě Jana Amose Komenského v
+            Praze. V letech 2013/2014 aktivně působil jako redaktor na informačním portále Konata. V roce 2014 vytvořil
+            mezinárodní projekt Figubo (Figure Board), který se zaměřuje na nadané fotografy japonských bishoujo figurek
+            a panenek.
+        </medailonek>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>88</priorita>
+        <board_image>/img/program2017/kuroneko_board.jpg</board_image>
+        <foto_image>/img/program2017/kuroneko_foto.jpg</foto_image>
+        <smallboard_image>/img/program2017/kuroneko_smallboard.jpg</smallboard_image>
+        <images>
+            <image>/img/program2017/kuroneko_screen1.jpg</image>
+            <image>/img/program2017/kuroneko_screen2.jpg</image>
+        </images>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>8</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>P</typ>
+        <nazev>Malé japonské zvláštnosti</nazev>
+        <prednasejici>Lucie „Lusi“ Melounová</prednasejici>
+        <code>lusi</code>
+        <anotace>Drobnosti, které u nás nemáme, ale Japoncům usnadňují život. Cool vychytávky, které jste možná neznali.
+            Věci tak odlišné, že vás praští přes nos hned, jak přijedete do Japonska, i maličkosti, kterých si jako
+            turista nevšimnete. O tom všem je YouTube pořad Japondělí, ze kterého vychází tato přednáška. Vezmeme témata
+            z Japondělí, která sami vyberete, a podíváme se na ně trochu víc do hloubky. Hlasovat o tématech můžete &lt;a
+            href="https://www.facebook.com/events/1251954764817198/permalink/1535272833152055/"&gt;v anketě na facebooku&lt;/a&gt;.
+        </anotace>
+        <anotace_en></anotace_en>
+        <medailonek>Japanofilka, která se již mnoho let zabývá studiem kultury a společnosti své oblíbené země.
+            Obzvláště ráda se vrtá v japonských kulturních zvláštnostech a přednáší o nich. Od loňského roku vytváří
+            internetový pořad Japondělí. Do Japonska se zatím vypravila dvakrát, ale samozřejmě už spřádá plány na další
+            cestu.
+        </medailonek>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>93</priorita>
+        <board_image>/img/program2017/lusi_board.png</board_image>
+        <foto_image>/img/program2017/lusi_foto.png</foto_image>
+        <smallboard_image>/img/program2017/lusi_smallboard.png</smallboard_image>
+        <images>
+            <image>/img/program2017/lusi_screen1.JPG</image>
+            <image>/img/program2017/lusi_screen1.jpg</image>
+            <image>/img/program2017/lusi_screen1.png</image>
+        </images>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>12</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>P</typ>
+        <nazev>Big in Japan aneb Kapely, které se v Japonsku neztratily</nazev>
+        <prednasejici>Prokop „NeoWorm“ Smetana</prednasejici>
+        <code>neoworm</code>
+        <anotace>Může se průměrná rockovo-metalová kapela z USA stát megahitem Japonska? Fenomén Big in Japan dokazuje,
+            že může. Mr. Big dodnes v Japonsku pořádá turné a Kiss vydávají písničky společně s J-popovými kapelami. I
+            mnozí další se těší nečekanému zájmu Japonska. Kteří to jsou a jakou stopu po sobě v Japonsku zanechali, si
+            povíme na přednášce.
+        </anotace>
+        <anotace_en></anotace_en>
+        <medailonek>Jsem grafik z profese, kreslíř komiksů a milovník všeho animovaného, kresleného a kreativního. Mám
+            slabost pro zajímavá obskurní díla s myšlenkou nebo nápadem a stále prahnu po dalších a dalších.
+        </medailonek>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>89</priorita>
+        <board_image>/img/program2017/neoworm_board.jpg</board_image>
+        <foto_image>/img/program2017/neoworm_foto.jpg</foto_image>
+        <smallboard_image>/img/program2017/neoworm_smallboard.jpg</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>13</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>P</typ>
+        <nazev>Korea má zpoždění aneb Proč se nám K-pop má líbit</nazev>
+        <prednasejici>Alfred Jägger</prednasejici>
+        <code>alfred</code>
+        <anotace>Narodiv se před rokem 1990, znamenaly pro mě hudební hity z přelomu tisíciletí dospívání. V tom věku se
+            vám hudba poprvé vtiskne do duše. Nicméně hudební styl tohoto období je nenávratně pryč… nebo ne?
+            &lt;br/&gt;Korejský pop jakoby stál na základech hudby 90. let a posunul ji dál ne jako hudbu, ale jako
+            průmyslové odvětví. Pokud jste k-popem nepolíbeni, tato přednáška vám ukáže, co je na tomto „středním
+            asijském proudu“ tak zajímavé a zvláštní, že by vám měl stát za zájem, ať už jste muž či žena.
+        </anotace>
+        <anotace_en></anotace_en>
+        <medailonek>Fanoušek Asie, anime, cosplay, K-popu, airsoftu a historie. Mým snem není v Asii žít, ani vidět
+            všechno anime světa, ale faktem je, že výše uvedené tvoří významnou část mého života už mnoho let. Rád si
+            povídám, zajímám se a pátrám. Ještě raději se ale dělím o své poznatky s ostatními.
+        </medailonek>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>68</priorita>
+        <board_image>/img/program2017/alfred_board.jpg</board_image>
+        <foto_image>/img/program2017/alfred_foto.jpg</foto_image>
+        <smallboard_image>/img/program2017/alfred_smallboard.jpg</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>16</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>P</typ>
+        <nazev>Padouch, nebo hrdina?</nazev>
+        <prednasejici>Libor „rAvenak" Tomáš</prednasejici>
+        <code>ravenak</code>
+        <anotace>V japonských dějinách se to jenom hemží zajímavými osobnostmi. Někteří z nich byli hrdinové bez bázně a
+            hany, jiní zase měli morální kompas otočený poněkud jiným směrem. V přednášce si představíme vybrané
+            drakobijce, mystické staříky, samurajské válečníky, stejně jako bandity, potulné rváče a jiné psychopaty.
+            Dojde na postavy zcela reálné, ale i na ty, které jsou opředeny závojem mýtů a legend. A nakonec dost možná
+            zjistíme, že ne každého člověka a jeho činy lze jednoznačně zaškatulkovat – obzvláště v Japonsku.
+        </anotace>
+        <anotace_en></anotace_en>
+        <medailonek>Přítel všeho japonského, utrpěl vzdělání jakožto historik. Věčně nic nestíhající otec dvou dětí,
+            které se poměrně úspěšně snaží vychovávat v anime pozitivním ovzduší, což dokazuje jejich účast na
+            Animefestu v útlém věku a v cosplayi!
+        </medailonek>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>66</priorita>
+        <board_image>/img/program2017/ravenak_board.jpg</board_image>
+        <foto_image>/img/program2017/ravenak_foto.jpg</foto_image>
+        <smallboard_image>/img/program2017/ravenak_smallboard.jpg</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>18</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>P</typ>
+        <nazev>Cost-friendly Japan</nazev>
+        <prednasejici>Lenka Sládeková</prednasejici>
+        <code>sladek</code>
+        <anotace>„Ty si bola v Japonsku? To muselo byť drahé!“ A nie, nebolo! Príďte sa dozvedieť, ako vyzerá taká
+            normálna dovolenka. Čo sa dá stihnúť za dva týždne a vo vlastnej réžii. Čo je potrebné vybaviť pred cestou,
+            ako hľadať ubytovanie, či sa oplatí Japan Rail Pass a prečo je dobré mať Suica Card. Koľko stojí rámen,
+            takojaki a sake? Praktické info poprepletané fotkami a zážitkami, doplnené reálnymi cenami.
+        </anotace>
+        <anotace_en></anotace_en>
+        <medailonek>V roku 2008 som prvýkrát vzhliadla Soul Eater a pri anime som už ostala. V tom istom čase som si v
+            jednom článku prečítala, že v Japonsku je tak veľa ľudí a tak málo miesta, že aj psy sa naučili vrtieť
+            chvostom zhora nadol namiesto zo strany na stranu. Presvedčiť o pravde som sa bola až minulý rok.
+        </medailonek>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>72</priorita>
+        <board_image>/img/program2017/sladek_board.jpg</board_image>
+        <foto_image>/img/program2017/sladek_foto.jpg</foto_image>
+        <smallboard_image>/img/program2017/sladek_smallboard.jpg</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>21</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>P</typ>
+        <nazev>Duch ve filmech Mamorua Ošiiho</nazev>
+        <prednasejici>Martin Vašička</prednasejici>
+        <code>vasicka</code>
+        <anotace>Pomalu odkrývaná zápletka, která nepozornému divákovi unikne, propracované smyšlené světy, hluboká
+            filosofie a ztracené existence hledající své místo ve světě. I tak by se dala popsat díla Mamorua Ošiiho.
+            Stvořitel legendárních anime a obskurních hraných filmů, který se nebál experimentovat. Málokterý japonský
+            tvůrce měl takový vliv na světovou kinematografii.
+        </anotace>
+        <anotace_en></anotace_en>
+        <medailonek>Nadšenec do science fiction, anime a cinefil obecně. Milovník braku a obskurit, tudíž byla jen
+            otázka času, kdy přičichne k anime a k úchylárnám. A mimochodem, pop kultura osmdesátých let je boží.
+        </medailonek>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>70</priorita>
+        <board_image>/img/program2017/vasicka_board.jpg</board_image>
+        <smallboard_image>/img/program2017/vasicka_smallboard.jpg</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>22</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>P</typ>
+        <nazev>Cosplay křídla od A do Z</nazev>
+        <prednasejici>Ali, Germia, Ketrin</prednasejici>
+        <code>ali</code>
+        <anotace>Křídla neodvratně patří do světa cosplaye a kostýmu vždy dodají ten potřebný wow efekt, kterým vyčnívá
+            nad ostatní. Cosplayeři Ali, Germia a Ketrin prezentují různé způsoby a materiály pro tvorbu křídel a
+            okřídlených konstrukcí. Dozvíte se o jejich tvorbě od A do Z: o vhodných materiálech a vhodném uchycení, a
+            také jak křídla rozpohybovat.
+            &lt;br/&gt;&lt;br/&gt;
+            &lt;img src="/img/program2017/ali_foto.png" height="200"&gt;&lt;br/&gt;
+            &lt;b&gt;Germia&lt;/b&gt; – Herní cosplayerka a poloprofesionální hráčka týmu eSuba s úspěchy na domácích a
+            mezinárodních soutěžích. V roce 2016 například vyhrála soutěže Animefest, prestižní Eurocosplay a Dreamhack
+            Winter.
+            &lt;br/&gt;&lt;b&gt;Ali&lt;/b&gt; – Cosplayer kladoucí důraz na kvalitu provedení, painting a osvětlení. Je
+            jeden z nejúspěšnějších cosplayerů hlavně díky svému umístění na prestižní soutěži Cosplay World Masters.
+            &lt;br/&gt;&lt;b&gt;Ketrin&lt;/b&gt; – Jedna z nejdéle působících herních cosplayerek domácí scény,
+            organizátorka cosplay akcí a spoluzakladatelka cosplayerské skupiny CZ/SK LoL cosplayers.
+        </anotace>
+        <anotace_en></anotace_en>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>91</priorita>
+        <board_image>/img/program2017/ali_board.jpg</board_image>
+        <foto_image>/img/program2017/ali_foto.png</foto_image>
+        <smallboard_image>/img/program2017/ali_smallboard.jpg</smallboard_image>
+        <images>
+            <image>/img/program2017/ali_screen1.jpg</image>
+            <image>/img/program2017/ali_screen2.jpg</image>
+        </images>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>23</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>P</typ>
+        <nazev>Japonsko, země dědečků a babiček</nazev>
+        <prednasejici>Barbora „Bell“ Pawliková</prednasejici>
+        <code>bell</code>
+        <anotace>Japonsko je zemí s nejstarší populací na světě a počet starých lidí se neustále zvyšuje. V přednášce se
+            podíváme na to, jak to se stárnutím v Japonsku vlastně je a proč představuje problém. Vymřou Japonci? Bude
+            mít „pro nás“ kdo kreslit mangu a psát light novely? Je situace vážně tak dramatická? A jak to vypadá se
+            zpodobňováním starých lidí v anime?
+        </anotace>
+        <anotace_en></anotace_en>
+        <medailonek>Sama sebe považuje za zkušenou členku otaku komunity a počet zhlédnutých anime každou sezónu zvyšuje
+            o dvojciferné číslo. Má ráda komedie a fantasy a je ochotná koukat na jakékoli hudební anime (i když u toho
+            občas trpí). Jejím životním cílem je mít v anime listu větší počet zhlédnutých anime, než je epizod One
+            Piece.
+        </medailonek>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>80</priorita>
+        <board_image>/img/program2017/bell_board.jpg</board_image>
+        <smallboard_image>/img/program2017/bell_smallboard.jpg</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>25</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>P</typ>
+        <nazev>Faily herního průmyslu</nazev>
+        <prednasejici>Yuffie</prednasejici>
+        <code>yuffie</code>
+        <anotace>Hýřit sliby a megalomanskými tvrzeními je daleko snadnější než pak naplnit mamutí očekávání – a v této
+            přednášce vám představím ty, kterým se to nepovedlo. Čekají vás největší propadáky, nejsmutnější zklamání,
+            nejdrzejší nedodržení slibů a nejtroufalejší zkoušky trpělivosti. Budete se smát, budete plakat a budete si
+            spokojeně šeptat pod nos. Zkrátka guilty pleasure nejhrubšího zrna.
+        </anotace>
+        <anotace_en></anotace_en>
+        <medailonek>Yuffie je cynické a narcistické monstrum, které trpí abnormální posedlostí jednorožci, orky a
+            piráty. Miluje herní médium ve všech podobách, zbožňuje výzvy a nedokáže říct „ne“. I přes mnohé fámy se po
+            nocích neživí krví panen a neplánuje osvobození světa z otěží kapitalismu. Na neoblíbené tvrzení „nemůžeš
+            mít všechno“ reaguje slovy: „Jsem Yuffie, já můžu.“
+        </medailonek>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>86</priorita>
+        <board_image>/img/program2017/yuffie_board.jpg</board_image>
+        <foto_image>/img/program2017/yuffie_foto.png</foto_image>
+        <smallboard_image>/img/program2017/yuffie_smallboard.jpg</smallboard_image>
+        <images>
+            <image>/img/program2017/yuffie_screen1.jpg</image>
+            <image>/img/program2017/yuffie_screen2.jpg</image>
+            <image>/img/program2017/yuffie_screen3.jpg</image>
+        </images>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>28</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>C</typ>
+        <nazev>Soutěžní AMV</nazev>
+        <nazvy_dalsi>
+            <nazev_dalsi lang="en">AMV contest</nazev_dalsi>
+        </nazvy_dalsi>
+        <code>amv</code>
+        <anotace>V tradiční AMV soutěži se i letos utká 16 videí, která úspěšně prošla kvalifikací u poroty a ve webovém
+            hlasování. Nyní bude záležet jen na hlasování diváků, kdo z autorů si odnese Totora.
+        </anotace>
+        <anotace_en></anotace_en>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>0</priorita>
+        <board_image>/img/program2017/amv_board.png</board_image>
+        <smallboard_image>/img/program2017/amv_smallboard.png</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>29</id>
+        <zobrazovat>true</zobrazovat>
+        <time tid="1">
+            <start>
+                <datum>20. 5.</datum>
+                <cas>12:30</cas>
+                <stamp>2017-05-20T12:30:00+02:00</stamp>
+                <timestamp>201705201230</timestamp>
+            </start>
+            <konec>
+                <datum>20. 5.</datum>
+                <cas>13:30</cas>
+                <stamp>2017-05-20T13:30:00+02:00</stamp>
+                <timestamp>201705201330</timestamp>
+            </konec>
+            <sal>R</sal>
+            <poznamka/>
+        </time>
+        <time tid="2">
+            <start>
+                <datum>20. 5.</datum>
+                <cas>12:30</cas>
+                <stamp>2017-05-20T12:30:00+02:00</stamp>
+                <timestamp>201705201230</timestamp>
+            </start>
+            <konec>
+                <datum>20. 5.</datum>
+                <cas>13:30</cas>
+                <stamp>2017-05-20T13:30:00+02:00</stamp>
+                <timestamp>201705201330</timestamp>
+            </konec>
+            <sal>A1s</sal>
+            <poznamka>stream</poznamka>
+        </time>
+        <typ>C</typ>
+        <nazev>Cosplay debut</nazev>
+        <code>debut</code>
+        <anotace>Cosplayujete rádi? Baví vás blbnout pro ostatní, ale na cosplay soutěž si zatím netroufáte? Cosplay
+            debut je tu právě pro vás! Nemusíte řešit, jestli je váš kostým z větší části kupovaný, nemusíte mít hrůzu z
+            porotců! Prostě si to přijďte vyzkoušet!
+
+            A vy, diváci, přijďte se podívat na nováčky cosplayerské scény, lidi, kteří sebrali odvahu a troufnou si na
+            pódium rotundy! Přijďte vybrat ty nejlepší z nich!
+        </anotace>
+        <anotace_en></anotace_en>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>0</priorita>
+        <board_image>/img/program2017/debut_board.png</board_image>
+        <smallboard_image>/img/program2017/debut_smallboard.png</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>30</id>
+        <zobrazovat>true</zobrazovat>
+        <time tid="3">
+            <start>
+                <datum>20. 5.</datum>
+                <cas>15:30</cas>
+                <stamp>2017-05-20T15:30:00+02:00</stamp>
+                <timestamp>201705201530</timestamp>
+            </start>
+            <konec>
+                <datum>20. 5.</datum>
+                <cas>17:00</cas>
+                <stamp>2017-05-20T17:00:00+02:00</stamp>
+                <timestamp>201705201700</timestamp>
+            </konec>
+            <sal>R</sal>
+            <poznamka/>
+        </time>
+        <time tid="4">
+            <start>
+                <datum>20. 5.</datum>
+                <cas>15:30</cas>
+                <stamp>2017-05-20T15:30:00+02:00</stamp>
+                <timestamp>201705201530</timestamp>
+            </start>
+            <konec>
+                <datum>20. 5.</datum>
+                <cas>17:00</cas>
+                <stamp>2017-05-20T17:00:00+02:00</stamp>
+                <timestamp>201705201700</timestamp>
+            </konec>
+            <sal>A1s</sal>
+            <poznamka>stream</poznamka>
+        </time>
+        <typ>C</typ>
+        <nazev>Cosplay soutěž</nazev>
+        <nazvy_dalsi>
+            <nazev_dalsi lang="en">Cosplay contest</nazev_dalsi>
+        </nazvy_dalsi>
+        <code>cosplay</code>
+        <anotace>Hrbili jste se nad šicím strojem, málem si ustřihli prsty nůžkami a popálenin od horkovzdušné pistole
+            se ani nedopočítáte? Předveďte výsledky svého snažení před stovkami diváků a zasoutěžte si o hodnotné ceny.
+            Letos ve dvou kategoriích – Jednotlivci a Soutěžní skupiny.
+            &lt;br/&gt;O výhercích rozhoduje porota složená ze zkušených zahraničních cosplayerů a o Ceně diváků
+            rozhodujete vy, návštěvníci festivalu.
+            &lt;br/&gt;Vítězná soutěžní skupina (dvojice) bude reprezentovat Česko v mezinárodní soutěži &lt;a
+            href="http://www.animecon.nl/program/events/cccc"&gt;Clara Cow's Cosplay Cup&lt;/a&gt; v Haagu.
+            &lt;br/&gt;&lt;a href="http://www.animecon.nl/program/events/cccc"&gt;&lt;img
+            src="/img/program2017/logoCCCCth.png" width="200"&gt;&lt;/a&gt;
+        </anotace>
+        <anotace_en></anotace_en>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>0</priorita>
+        <board_image>/img/program2017/cosplay_board.png</board_image>
+        <smallboard_image>/img/program2017/cosplay_smallboard.png</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>31</id>
+        <zobrazovat>true</zobrazovat>
+        <time tid="5">
+            <start>
+                <datum>19. 5.</datum>
+                <cas>19:30</cas>
+                <stamp>2017-05-19T19:30:00+02:00</stamp>
+                <timestamp>201705191930</timestamp>
+            </start>
+            <konec>
+                <datum>19. 5.</datum>
+                <cas>21:00</cas>
+                <stamp>2017-05-19T21:00:00+02:00</stamp>
+                <timestamp>201705192100</timestamp>
+            </konec>
+            <sal>R</sal>
+            <poznamka/>
+        </time>
+        <time tid="6">
+            <start>
+                <datum>19. 5.</datum>
+                <cas>19:30</cas>
+                <stamp>2017-05-19T19:30:00+02:00</stamp>
+                <timestamp>201705191930</timestamp>
+            </start>
+            <konec>
+                <datum>19. 5.</datum>
+                <cas>21:00</cas>
+                <stamp>2017-05-19T21:00:00+02:00</stamp>
+                <timestamp>201705192100</timestamp>
+            </konec>
+            <sal>A1s</sal>
+            <poznamka>stream</poznamka>
+        </time>
+        <typ>C</typ>
+        <nazev>Festdance</nazev>
+        <code>festdance</code>
+        <anotace>I letos vás čeká již tradiční soutěž FestDance! Cílem soutěže je vytvořit taneční vystoupení na hudbu z
+            libovolného anime, hry, na hit některého z východoasijských interpretů, případně na tradiční východoasijskou
+            muziku, a to v odpovídajícím kostýmu i provedení. Letos mají soutěžící šanci kvalifikovat se do českého
+            finále K-POP Contest.
+        </anotace>
+        <anotace_en></anotace_en>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>0</priorita>
+        <board_image>/img/program2017/festdance_board.png</board_image>
+        <smallboard_image>/img/program2017/festdance_smallboard.png</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>35</id>
+        <zobrazovat>true</zobrazovat>
+        <time tid="7">
+            <start>
+                <datum>20. 5.</datum>
+                <cas>12:00</cas>
+                <stamp>2017-05-20T12:00:00+02:00</stamp>
+                <timestamp>201705201200</timestamp>
+            </start>
+            <konec>
+                <datum>20. 5.</datum>
+                <cas>17:00</cas>
+                <stamp>2017-05-20T17:00:00+02:00</stamp>
+                <timestamp>201705201700</timestamp>
+            </konec>
+            <sal>M</sal>
+            <poznamka/>
+        </time>
+        <typ>C</typ>
+        <nazev>K-POP Contest</nazev>
+        <code>kpop</code>
+        <anotace>Chcete i vy letět do Koreje a reprezentovat Českou republiku v korejském popu? Pak je třeba zvítězit v
+            českém finále. I letos se ale může finále zúčastnit omezený počet interpretů. Tradičně se tedy uskuteční
+            výběrová talentová předkola, na kterých se rozhodne, kdo z vás postoupí dál a bude mít šanci dobýt svět.
+            Na Animefestu se uskuteční první předkolo.
+            &lt;br/&gt;
+            Další podrobnosti, pravidla a přihlášky na webu &lt;a
+            href="https://czechhallyuwave.com/2016/03/16/prihlaste-se-do-k-pop-contestu-2016/"&gt;Czech Hallyu Wave&lt;/a&gt;.
+        </anotace>
+        <anotace_en></anotace_en>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>0</priorita>
+        <board_image>/img/program2017/kpop_board.png</board_image>
+        <smallboard_image>/img/program2017/kpop_smallboard.png</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>36</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>C</typ>
+        <nazev>Kvalifikace Clara Cow's Cosplay Cup</nazev>
+        <nazvy_dalsi>
+            <nazev_dalsi lang="en">Clara Cow's Cosplay Cup qualifier</nazev_dalsi>
+        </nazvy_dalsi>
+        <code>clara</code>
+        <anotace>Vítězná Soutěžní skupina (dvojice) se jako reprezentace České republiky zúčastní mezinárodní soutěže
+            &lt;a href="http://www.animecon.nl/program/events/cccc"&gt;Clara Cow's Cosplay Cup&lt;/a&gt;, která se
+            odehrává na nizozemském festivalu Animecon v Haagu 9.-11. června 2017.
+
+            &lt;a href="http://www.animecon.nl/program/events/cccc"&gt;&lt;img src="/img/program2017/logoCCCCth.png"&gt;&lt;/a&gt;</anotace>
+        <anotace_en>Winning group selected by the Cosplay contest jury will represent the Czech Republic at the &lt;a
+            href="http://www.animecon.nl/program/events/cccc"&gt;Clara Cow's Cosplay Cup&lt;/a&gt; final at Animecon
+            2017 in The Netherlands.
+
+            &lt;a href="http://www.animecon.nl/program/events/cccc"&gt;&lt;img src="/img/program2017/logoCCCCth.png"&gt;&lt;/a&gt;</anotace_en>
+        <odkazy>
+            <odkaz label="Clara Cow's Cosplay Cup">http://www.animecon.nl/program/events/cccc</odkaz>
+        </odkazy>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>0</priorita>
+        <board_image>/img/program2017/clara_board.png</board_image>
+        <smallboard_image>/img/program2017/clara_smallboard.png</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>42</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>F</typ>
+        <nazev>Vražedný orgán</nazev>
+        <nazvy_dalsi>
+            <nazev_dalsi lang="en">Genocidal Organ</nazev_dalsi>
+            <nazev_dalsi lang="jp">虐殺器官</nazev_dalsi>
+        </nazvy_dalsi>
+        <code>organ</code>
+        <anotace>V den, kdy bylo Sarajevo zničeno podomácku vyrobenou atomovou bombou, vypukla válka proti terorismu a
+            svět se změnil. Demokratické země se proměnily v totalitní státy s občany pod neustálým dohledem a
+            obyvatelstvo rozvojových zemí bylo takřka vyhlazeno. Tajný agent Clavis Shepherd je pověřen úkolem zjistit,
+            kdo stojí za pádem světového řádu. Všechny stopy vedou k záhadnému Američanovi Johnu Paulovi, a je proto jen
+            na Clavisovi, aby se za ním hnal troskami civilizace až na pomyslný konec světa. Podaří se mu viníka s jeho
+            vražedným orgánem dopadnout?
+        </anotace>
+        <anotace_en>The war on terror exploded, literally, the day Sarajevo was destroyed by a homemade nuclear device.
+            The leading democracies have transformed into total surveillance states, and the developing world has
+            drowned under a wave of genocides. The mysterious American John Paul seems to be behind the collapse of the
+            world system, and it's up to intelligence agent Clavis Shepherd to track John Paul across the wreckage of
+            civilizations and to find the true heart of darkness—a genocidal organ.
+        </anotace_en>
+        <odkazy>
+            <odkaz label="oficiální web">http://project-itoh.com/#/geno/top/</odkaz>
+        </odkazy>
+        <film>
+            <rezie>Šukó Murase</rezie>
+            <scenar>Šukó Murase, kniha Project Itoh</scenar>
+            <hudba>Jošihiro Ike</hudba>
+            <rezie_en>Shuko Murase</rezie_en>
+            <scenar_en>Shuko Murase</scenar_en>
+            <hudba_en>Yoshihiro Ike</hudba_en>
+            <produkce>Geno Studio</produkce>
+            <rok>2017</rok>
+            <delka>115 minut</delka>
+            <jazyk>jp+czen</jazyk>
+            <premiera>cz</premiera>
+        </film>
+        <copyright>©Project Itoh / GENOCIDAL ORGAN</copyright>
+        <priorita>0</priorita>
+        <board_image>/img/program2017/organ_board.jpg</board_image>
+        <smallboard_image>/img/program2017/organ_smallboard.jpg</smallboard_image>
+        <video>
+            <flv>/img/program2017/organ_video.flv</flv>
+        </video>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>43</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>F</typ>
+        <nazev>Rudolf a Mnohajmen</nazev>
+        <nazvy_dalsi>
+            <nazev_dalsi lang="en">Rudolf the Black Cat</nazev_dalsi>
+            <nazev_dalsi lang="jp">ルドルフとイッパイアッテナ</nazev_dalsi>
+        </nazvy_dalsi>
+        <code>rudolf</code>
+        <anotace>Dojemný příběh o zvířecím přátelství na motivy v Japonsku známých dětských knih vypráví o zatoulaném
+            kotěti Rudolfovi. Ten se jednoho dne ztratí a ocitne v Tokiu, kde potká Mnohajmena, vůdce toulavých koček a
+            postrach tamních ulic, který mu prozradí jedno velké tajemství. Rudolf se tak postupně naučí životu ve
+            velkoměstě, dokáže se však někdy vrátit domů?
+
+        </anotace>
+        <anotace_en>Rudolf, a black stray cat, is suddenly separated from his beloved master. He unexpectedly wakes up
+            in a long-distance truck that takes him to metropolis Tokyo. There, he meets Gottalot, a big boss cat feared
+            by everyone in town. Unable to return home, Rudolf starts a life as a stray with Gottalot, but Gottalot
+            isn't all that he seems to be.
+        </anotace_en>
+        <odkazy>
+            <odkaz label="oficiální web">http://www.rudolf-ippaiattena.com/</odkaz>
+        </odkazy>
+        <film>
+            <rezie>Kunihiko Jujama, Motonori Sakakibara</rezie>
+            <scenar>Jóiči Kató</scenar>
+            <hudba>Naoki Sató</hudba>
+            <rezie_en>Kunihiko Yuyama, Motonori Sakakibara</rezie_en>
+            <scenar_en>Yoichi Kato</scenar_en>
+            <hudba_en>Naoki Sato</hudba_en>
+            <produkce>OLM</produkce>
+            <rok>2016</rok>
+            <delka>89 minut</delka>
+            <jazyk>jp+czen</jazyk>
+            <premiera>cz</premiera>
+        </film>
+        <copyright>©2016 “Rudolf the Black Cat” Film Partners</copyright>
+        <priorita>0</priorita>
+        <board_image>/img/program2017/rudolf_board.png</board_image>
+        <smallboard_image>/img/program2017/rudolf_smallboard.png</smallboard_image>
+        <video>
+            <flv>/img/program2017/rudolf_video.flv</flv>
+        </video>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>44</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>F</typ>
+        <nazev>Naše copánkaté božstvo</nazev>
+        <nazvy_dalsi>
+            <nazev_dalsi lang="en">Pigtails</nazev_dalsi>
+            <nazev_dalsi lang="jp">みつあみの神様</nazev_dalsi>
+        </nazvy_dalsi>
+        <code>pigtails</code>
+        <anotace>Země se otřásla, nebe zaburácelo a přišla pohroma. &lt;br/&gt;Na pobřeží od toho dne stojí jen jeden
+            jediný dům, ve kterém bydlí dívka s copánky. Nemá nejmenší tušení, že její věci žijí svými vlastními životy:
+            kolíky na prádlo se spolu hádají, polštář vede s deštníkem diskuzi o okolním světě a nový zubní kartáček se
+            snaží zapůsobit na ty staré. &lt;br/&gt;Přestože &lt;i&gt;Naše copánkaté božstvo&lt;/i&gt; na první pohled
+            zaujme svou něžnou atmosférou, jedná se o netradiční bajku o naději, která vás donutí k zamyšlení.
+            &lt;br/&gt;&lt;br/&gt;&lt;i&gt;Ocenění: Platinum Remi Award, 49th WorldFest Houston; Best Animation Short,
+            3rd Los Angeles Independent Film Festival Awards 2016; Platinum Award, Spotlight Short Film Awards June
+            2016; Gold Award: Animation, International Independent Film Awards Spring 2016; Jury Recommended Work, 20th
+            Japan Media Arts Festival&lt;/i&gt;</anotace>
+        <anotace_en>The earth shook. The sea roared. And then...&lt;br/&gt;
+            There is a small house solitary standing by the seaside. A pigtail-braided girl has been living there alone
+            since that fateful day. Mail is no longer delivered, but even this morning, she’s hanging out the laundry as
+            usual. She’s unaware that all around her, the clothes-pegs are quarreling, the pillow argues with the
+            umbrella about the outside world, and the new toothbrush is unsuccessfully trying to charm the grumpy older
+            ones.
+            &lt;br/&gt;A thought-provoking fable of hope and rebirth in a cruel and gentle world after an unnamed
+            disaster.
+            &lt;br/&gt;&lt;br/&gt;&lt;i&gt;Recognitions: Platinum Remi Award, 49th WorldFest Houston; Best Animation
+            Short, 3rd Los Angeles Independent Film Festival Awards 2016; Platinum Award, Spotlight Short Film Awards
+            June 2016; Gold Award: Animation, International Independent Film Awards Spring 2016; Jury Recommended Work,
+            20th Japan Media Arts Festival&lt;/i&gt;</anotace_en>
+        <odkazy>
+            <odkaz label="Production I.G">http://www.production-ig.com/contents/works_sp/96_/s00_/index.html</odkaz>
+        </odkazy>
+        <film>
+            <rezie>Jošimi Itazu</rezie>
+            <scenar>Miho Maruo, podle mangy Mačiko Kjó</scenar>
+            <hudba>Ičiko Aoba</hudba>
+            <rezie_en>Yoshimi Itazu</rezie_en>
+            <scenar_en>Miho Maruo, based on manga by Machiko Kyo</scenar_en>
+            <hudba_en>Ichiko Aoba</hudba_en>
+            <produkce>Production I.G</produkce>
+            <rok>2015</rok>
+            <delka>30 minut</delka>
+            <jazyk>jp+czen</jazyk>
+            <premiera>cz</premiera>
+        </film>
+        <copyright>© 2015 Machiko Kyo/SHUEISHA, ITSV</copyright>
+        <priorita>0</priorita>
+        <board_image>/img/program2017/pigtails_board.jpg</board_image>
+        <smallboard_image>/img/program2017/pigtails_smallboard.jpg</smallboard_image>
+        <video>
+            <flv>/img/program2017/pigtails_video.flv</flv>
+        </video>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>45</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>F</typ>
+        <nazev>Ghost in the Shell 2: Innocence</nazev>
+        <code>innocence</code>
+        <anotace>V roce 2032 je hranice mezi lidmi a stroji téměř neznatelná. Detektiv Bató, agent tajné
+            protiteroristické jednotky, dostane za úkol vyšetřit, proč najednou začali roboti naprogramovaní jako
+            sexuální společníci vraždit své majitele. Bató a jeho kolega Togusa si během vyšetřování musí poradit se
+            zabijáky jakuzy, zákeřnými hackery, vládními byrokraty a korporátními zločinci. Podaří se jim rozkrýt
+            šokující pravdu na pozadí zločinu?
+            &lt;br/&gt;&lt;i&gt;Ghost in the Shell 2: Innocence&lt;/i&gt; není jen vizuálně ohromující drsná
+            futuristická detektivka, ale hlavně příběh osamělého kyborga, který se zoufale snaží udržet si poslední
+            kousky své lidskosti, i když celý svět už zapomněl na hodnotu lidské duše.
+        </anotace>
+        <anotace_en>In 2032, the line between humans and machines has been blurred almost beyond distinction. Detective
+            Batou, an agent for covert anti-terrorist unit Public Safety Section 9, is assigned the case of gynoids,
+            hyper-realistic female robots created for sexual companionship, that have started slaughtering their owners.
+            In the course of the investigation, Batou and his partner Togusa take on violent Yakuza thugs, devious
+            hackers, government bureaucrats, and corporate criminals to uncover the shocking truth behind the crime.
+            &lt;br/&gt;More than a visually stunning futuristic hard-boiled mystery, &lt;i&gt;Ghost in the Shell 2:
+            Innocence&lt;/i&gt; is the story of a solitary cyborg that desperately wants to hold on to what's left of
+            his humanity in a world where the value of the human soul has largely been forgotten.
+        </anotace_en>
+        <odkazy>
+            <odkaz label="Production I.G">http://www.production-ig.com/contents/works_sp/01_/index.html</odkaz>
+        </odkazy>
+        <film>
+            <rezie>Mamoru Ošii</rezie>
+            <scenar>Mamoru Ošii, Širó Masamune</scenar>
+            <hudba>Kendži Kawai</hudba>
+            <rezie_en>Mamoru Oshii</rezie_en>
+            <scenar_en>Mamoru Oshii, based on manga by Shirow Masamune</scenar_en>
+            <hudba_en>Kenji Kawai</hudba_en>
+            <produkce>Production I.G</produkce>
+            <rok>2004</rok>
+            <delka>99 minut</delka>
+            <jazyk>jp+czen</jazyk>
+        </film>
+        <copyright>© 2004 Shirow Masamune/KODANSHA · IG, ITNDDTD</copyright>
+        <priorita>0</priorita>
+        <board_image>/img/program2017/innocence_board.jpg</board_image>
+        <smallboard_image>/img/program2017/innocence_smallboard.jpg</smallboard_image>
+        <images>
+            <image>/img/program2017/innocence_screen1.jpg</image>
+        </images>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>46</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>P</typ>
+        <nazev>Freelancing in digital age</nazev>
+        <nazvy_dalsi>
+            <nazev_dalsi lang="en">Freelancing in digital age</nazev_dalsi>
+        </nazvy_dalsi>
+        <prednasejici>Lüleiya</prednasejici>
+        <code>luleiya</code>
+        <anotace>&lt;b&gt;Přednáška v angličtině&lt;/b&gt;
+            &lt;br/&gt;&lt;br/&gt;"Freelance artist" is a broad term. We're living in a digital age which opened many
+            new ways and opportunities (such as social media platforms) of making a living as an artist besides the
+            traditional method that still lives in many people's minds. In this panel, Lüleiya will discuss the pros and
+            cons of freelancing, give practical tips on what platforms to use and what to keep in mind when starting out
+            as a freelance artist.
+        </anotace>
+        <anotace_en>&lt;b&gt;Talk in English&lt;/b&gt;
+            &lt;br/&gt;&lt;br/&gt;
+            "Freelance artist" is a broad term. We're living in a digital age which opened many new ways and
+            opportunities (such as social media platforms) of making a living as an artist besides the traditional
+            method that still lives in many people's minds. In this panel, Lüleiya will discuss the pros and cons of
+            freelancing, give practical tips on what platforms to use and what to keep in mind when starting out as a
+            freelance artist.
+        </anotace_en>
+        <medailonek>Lüleiya je kreslíř samouk a momentálně žije v Maďarsku. I když právě teď pracuje jako grafický
+            designer, její vášní vždy byly ilustrace a komiks. V posledních deseti letech se podílela na několika
+            projektech art booků a komiksových antologií. Začínala s tradiční kresbou a postupně přešla na digitální
+            kresbu. Její styl je směsí semi-realismu a mangy, nejraději se zaměřuje na témata fantasy, snů a nevinnosti.
+            Nadšeně také tvoří fanarty pro několik anime a filmových fandomů. Kromě kreslení ráda bruslí a podniká
+            výpravy kamkoliv do přírody.
+
+        </medailonek>
+        <medailonek_en>Lüleiya is a self-taught artist based in Hungary. Although currently working as a full-time
+            graphic designer, her passion has always been in illustration and comics. For the past decade she has been
+            involved in various art book projects and comic anthologies, starting out with traditional art and then
+            switching completely to digital art. Her style is a mixture of semi-realism and manga, mainly focusing on
+            themes such as fantasy, dreams, innocence. She's also an avid fanart contributor to several anime and movie
+            fandoms. Besides drawing, Lüleiya loves to ice-skate, go hiking and be anywhere outdoors where there is
+            nature!
+
+        </medailonek_en>
+        <odkazy>
+            <odkaz label="FB page">https://www.facebook.com/luleiyaworks/</odkaz>
+            <odkaz label="DeviantArt">http://luleiya.deviantart.com/</odkaz>
+        </odkazy>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>101</priorita>
+        <board_image>/img/program2017/luleiya_board.jpg</board_image>
+        <smallboard_image>/img/program2017/luleiya_smallboard.jpg</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>47</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>S</typ>
+        <nazev>Gundam: Počátek</nazev>
+        <nazvy_dalsi>
+            <nazev_dalsi lang="en">Mobile Suit Gundam The Origin</nazev_dalsi>
+            <nazev_dalsi lang="jp">機動戦士ガンダム THE ORIGIN</nazev_dalsi>
+        </nazvy_dalsi>
+        <code>gundam</code>
+        <anotace>Píše se rok 68 Vesmírného století a Autonomní republikou Munzo otřásají nepokoje vyvolané politickou
+            vraždou, ve kterou vyústil svár mezi rody Ralů a Zabiů. Je to právě tato tragédie, která změní osud mladého
+            Chara Aznablea, budoucího elitního pilota, a jeho sestry Sayly Mass. Na pozadí politické války a bojů za
+            nezávislost se oba sourozenci vydávají na cestu odplaty ve snaze pomstít smrt svého otce Zeona Zuma Deikuna
+            a očistit jméno své rodiny.
+            &lt;br/&gt;&lt;br/&gt;&lt;i&gt;Promítáme všechny 4 dosud vydané epizody.&lt;/i&gt;
+            &lt;br/&gt;Epizoda I: Modrooký Casval
+            &lt;br/&gt;Epizoda II: Artesiin zármutek
+            &lt;br/&gt;Epizoda III: Úsvit povstání
+            &lt;br/&gt;Epizoda IV: Soumrak osudu
+        </anotace>
+        <anotace_en>&lt;b&gt;Episode I: Blue-Eyed Casval&lt;/b&gt;
+            &lt;br/&gt;Universal Century 0068, Side 3 – The Autonomous Republic of Munzo. Zeon Zum Deikun attempts to
+            declare complete independence of Munzo from the Earth Federation Government, while he preaches the
+            evolutionary potential of humans who have advanced into outer space. Deikun however suddenly falls to his
+            death in the middle of his speech at parliament.
+            &lt;br/&gt;Upon Deikun’s death, Jimba Ral spreads word of a House of Zabi conspiracy – but despite such
+            efforts the power and sphere of influence of House of Zabi, led by Degwin Sodo Zabi, only seem to escalate.
+            &lt;br/&gt;While we witness for the first time the untold convulsions of Universal Century history, Casval
+            and Artesia, just bereaved of their father, must face destinies which will be just as tumultuous as the very
+            era itself.
+            &lt;br/&gt;&lt;br/&gt;
+            &lt;b&gt;Episode II: Artesia's Sorrow &lt;/b&gt;
+            &lt;br/&gt;Universal Century 0071. Three years have passed since the escape from Side 3's Autonomous
+            Republic of Munzo.
+            &lt;br/&gt;Casval and Artesia, the orphaned children of Zeon Zum Deikun, have fled to Earth along with Jimba
+            Ral and taken refuge in the household of Teabolo Mass. They now live quiet lives under the names Édouard and
+            Sayla. However, they are once again being targeted by the evil schemes of the pursuing Zabi family...
+            &lt;br/&gt;Meanwhile, Side 3 has been renamed the Autonomous Republic of Zeon. The Zabi family have seized
+            power, and as they consolidate their system of control, they embark on the development of a new weapon
+            called the mobile worker in order to resist the Earth Federation Forces.
+            &lt;br/&gt;&lt;br/&gt;
+            &lt;b&gt;Episode III: Dawn of Rebellion &lt;/b&gt;
+            &lt;br/&gt;Universal Century 0074. After leaving Texas Colony, Édouard Mass camouflages his identity and
+            enrolls in the Autonomous Republic of Zeon's Space Defense Military Academy under the name of Char Aznable.
+            He develops a friendship with his classmate Garma, a scion of the Zabi family. Gradually the two become
+            admired by the other students.
+            &lt;br/&gt;Then, in Universal Century 0077, the students at last rise up in arms and begin the fight for
+            independence against the Earth Federation's security forces. This rebellion, however, also marks the
+            beginning of Char’s spectacular scenario of revenge...
+            &lt;br/&gt;Now, the gears of history are turning!
+            &lt;br/&gt;&lt;br/&gt;
+            &lt;b&gt;Episode IV: Eve of Destiny &lt;/b&gt;
+            &lt;br/&gt;After the Dawn Rebellion, Char travels to Earth and meets a girl with mysterious powers named
+            Lalah Sune.
+            &lt;br/&gt;Meanwhile, Amuro's father Tem Ray is working on the RX-78 development project. Learning of the
+            defection of Doctor Minovsky, a key figure in Zeon mobile suit development, he heads for the moon. History's
+            first battle between mobile suits unfolds in the twilight zone of the lunar surface.
+            &lt;br/&gt;Then comes Universal Century 0079. Side 3, the space city furthest from the Earth, launches a war
+            of independence against the Earth Federation government under the name of the Principality of Zeon.
+            &lt;br/&gt;An era of violent upheaval begins, in which half of the total human population will be killed...
+        </anotace_en>
+        <odkazy>
+            <odkaz label="oficiální web">http://www.gundam-the-origin.net/</odkaz>
+        </odkazy>
+        <film>
+            <rezie>Jošikazu Jasuhiko, Takaši Imaniši, Kijoši Egami, Nana Harada</rezie>
+            <scenar>Kacujuki Sumisawa, podle mangy Jošikazu Jasuhiko</scenar>
+            <hudba>Takajuki Hattori</hudba>
+            <rezie_en>Yoshikazu Yasuhiko, Takashi Imanishi, Kiyoshi Egami, Nana Harada</rezie_en>
+            <scenar_en>Katsuyuki Sumisawa, based on manga by Yoshikazu Yasuhiko</scenar_en>
+            <hudba_en>Takayuki Hattori</hudba_en>
+            <produkce>SUNRISE</produkce>
+            <rok>2015</rok>
+            <delka>65+60+70+70 minut</delka>
+            <jazyk>jp+czen</jazyk>
+            <premiera>cz</premiera>
+        </film>
+        <copyright>(C)SOTSU・SUNRISE</copyright>
+        <priorita>0</priorita>
+        <board_image>/img/program2017/gundam_board.jpg</board_image>
+        <smallboard_image>/img/program2017/gundam_smallboard.jpg</smallboard_image>
+        <images>
+            <image>/img/program2017/gundam_screen1.jpg</image>
+            <image>/img/program2017/gundam_screen2.jpg</image>
+            <image>/img/program2017/gundam_screen3.jpg</image>
+            <image>/img/program2017/gundam_screen4.jpg</image>
+        </images>
+        <video>
+            <flv>/img/program2017/gundam_video.flv</flv>
+        </video>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>48</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>B</typ>
+        <nazev>AMV Mortal Combat</nazev>
+        <prednasejici>Milan „Manta“ Čermák</prednasejici>
+        <code>amvcombat</code>
+        <anotace>Toto je aréna, ze které vyjde jen jeden vítěz. Toto je boj, ve kterém se o vaši přízeň utkají AMV z
+            celého světa. Toto je bitva o šesti kolech, kde se utká šest váhových kategorií – od lehké komedie po těžké
+            drama. Toto je hra, ve které vy rozhodujete, kdo bude bojovat a kdo bude vítězem. Toto je AMV Mortal Combat!
+        </anotace>
+        <anotace_en></anotace_en>
+        <medailonek>Patří mezi pražské Mňangačiči, kam se vetřel v roce 2005. Od té doby se zapojil do stříhání AMV,
+            čehož ale brzy nechal (hned jak vyhrál svého Totora), a několik let řídil organizaci pražského Akiconu, než
+            ji pro vyčerpání předal Devyxovi. Pět let připravoval pro Animefest AMV soutěž a křísil porotce ze šoku ze
+            soutěžních příspěvků.
+        </medailonek>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>0</priorita>
+        <board_image>/img/program2017/amvcombat_board.jpg</board_image>
+        <foto_image>/img/program2017/amvcombat_foto.jpg</foto_image>
+        <smallboard_image>/img/program2017/amvcombat_smallboard.jpg</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>49</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>W</typ>
+        <nazev>Kaligrafie</nazev>
+        <prednasejici>Light Point</prednasejici>
+        <code>kaligrafie</code>
+        <anotace>Láká vás japonské umění krasopisu? Chcete se dozvědět více o kaligrafii a také si ji vyzkoušet?
+            Připravili jsme si pro vás zajímavý workshop na toto téma. Nechte se naší lektorkou Yuko pomocí lehkých tahů
+            štětce zavést do světa umění, uvolnění a seberealizace.
+        </anotace>
+        <anotace_en></anotace_en>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>0</priorita>
+        <board_image>/img/program2017/kaligrafie_board.jpg</board_image>
+        <smallboard_image>/img/program2017/kaligrafie_smallboard.jpg</smallboard_image>
+        <images>
+            <image>/img/program2017/kaligrafie_screen1.jpg</image>
+            <image>/img/program2017/kaligrafie_screen2.jpg</image>
+            <image>/img/program2017/kaligrafie_screen3.jpg</image>
+        </images>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>50</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>H</typ>
+        <nazev>Hanafuda</nazev>
+        <code>hanafuda</code>
+        <anotace>Hanafuda (doslova květinové karty) jsou sadou japonských karetních her. Tyto karty vznikly už v 16.
+            století ve snaze obejít vládní zákaz evropských hazardních her s kartami a dodnes se těší velké popularitě.
+            Nejhranější variantou je koi-koi, ve které se hráči snaží sbírat body skládáním květin jednotlivých měsíců
+            do více či méně hodnotných kombinací.
+        </anotace>
+        <anotace_en></anotace_en>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>0</priorita>
+        <board_image>/img/program2017/hanafuda_board.jpg</board_image>
+        <smallboard_image>/img/program2017/hanafuda_smallboard.jpg</smallboard_image>
+        <images>
+            <image>/img/program2017/hanafuda_screen1.jpg</image>
+            <image>/img/program2017/hanafuda_screen2.jpg</image>
+        </images>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>51</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>H</typ>
+        <nazev>Shogi</nazev>
+        <code>shogi</code>
+        <anotace>Shogi (japonské šachy) jsou hodně známé hlavně v domácím Japonsku. Její tradice a historie je velice
+            pestrá. Hra se v západním světě neuchytila hlavně kvůli složitosti značení popisující jednotlivé kameny. My
+            jsme pro vás ale tuto bariéru odstranili, takže teď si hru může vyzkoušet opravdu úplně každý! Přijít
+            můžete, ať již hrajete, nebo se chcete hru naučit. Tak neváhejte a přijďte si s námi zahrát a porazit cizí
+            armády šogunů.
+        </anotace>
+        <anotace_en></anotace_en>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>0</priorita>
+        <board_image>/img/program2017/shogi_board.jpg</board_image>
+        <smallboard_image>/img/program2017/shogi_smallboard.jpg</smallboard_image>
+        <images>
+            <image>/img/program2017/shogi_screen1.JPG</image>
+            <image>/img/program2017/shogi_screen2.JPG</image>
+            <image>/img/program2017/shogi_screen3.JPG</image>
+        </images>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>52</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>P</typ>
+        <nazev>Průšvihy zahraničních conů</nazev>
+        <prednasejici>Alex „Sušenka“ Halasová</prednasejici>
+        <code>susenka</code>
+        <anotace>Organizovat con není jen tak. Člověk potřebuje mít zkušenosti, mozek a schopnost jednat s lidmi. Ne
+            vždy se však do organizace pustí někdo, kdo těmito schopnostmi oplývá. Přijďte si poslechnout pár historek z
+            conů, které se, ať už z hlediska PR či organizace, moc nepovedly.
+        </anotace>
+        <anotace_en></anotace_en>
+        <medailonek>Jsem zcela normální jedinec používající internet. Momentálně bydlím v Praze. Honba za informacemi mě
+            nutí neustále něco nového zjišťovat, a pokud mě to dostatečně zaujme, ráda se o nově nabyté vědomosti
+            podělím. Vyžívám se v divných věcech, fanfikcích a vybraných pokrmech. Sušenka není mé pravé jméno. Věci,
+            které nemám ráda: Vypisování medailonku přednášejícího, špatné fanfikce a občas lidi.
+        </medailonek>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>84</priorita>
+        <board_image>/img/program2017/susenka_board.jpg</board_image>
+        <foto_image>/img/program2017/susenka_foto.jpg</foto_image>
+        <smallboard_image>/img/program2017/susenka_smallboard.jpg</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>54</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>P</typ>
+        <nazev>Maskulinity ve visual kei (a co je na nich sexy)</nazev>
+        <nazvy_dalsi>
+            <nazev_dalsi lang="en">Visual Kei Masculinities (and What Makes Them Hot)</nazev_dalsi>
+        </nazvy_dalsi>
+        <prednasejici>Petra „Angie“ Fišerová</prednasejici>
+        <code>angie</code>
+        <anotace>Vypadají jako gotická sadomaso verze Kena, a někdy dokonce jako gotická sadomaso verze Barbie. Přesto
+            je mnohé fanynky mají za sex symboly. Jak to? Tomu se pokusíme přijít na kloub. Angie opět nasadí akademické
+            brejličky a podělí se s vámi o sociologické a kulturologické poznatky ohledně maskulinit v japonském
+            hudebním žánru visual kei – a čím tak přitahují davy žen a dívek.
+        </anotace>
+        <anotace_en>&lt;b&gt;Talk in English&lt;/b&gt;&lt;br/&gt;
+            He has the appearance of a gothic-punk-S&amp;M Ken, or better yet, a gothic-punk-S&amp;M Barbie; and yet, to
+            many a fangirl, he is a sex symbol. What is going on here? Let’s find out. Using her scholarly goggles,
+            Angie will take a closer look at visual kei, the Japanese music genre, and discover what makes its male
+            performers so attractive to female audiences.
+        </anotace_en>
+        <medailonek>Orgyně a přednášející na conech od roku 2006. Neumí kreslit, neumí zpívat, ale vždycky všechno
+            spolehlivě okecá. Autorka fanfikcí, hráčka a vypravěčka D&amp;D, překladatelka, doktorandka.
+        </medailonek>
+        <medailonek_en>A con organizer, speaker, host and subtitle translator since 2006, Angie is a creature you can
+            count on when you need words, lots of words, preferably in an entertaining sequence. No wonder she’s a
+            fanfiction author and a dungeon master to boot.
+        </medailonek_en>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>90</priorita>
+        <board_image>/img/program2017/angie_board.jpg</board_image>
+        <foto_image>/img/program2017/angie_foto.jpg</foto_image>
+        <smallboard_image>/img/program2017/angie_smallboard.jpg</smallboard_image>
+        <images>
+            <image>/img/program2017/angie_screen1.jpg</image>
+            <image>/img/program2017/angie_screen2.jpg</image>
+        </images>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>55</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>P</typ>
+        <nazev>Ako sa v mange a anime začalo športovať</nazev>
+        <prednasejici>Michal „Saint“ Ďurfina</prednasejici>
+        <code>saint</code>
+        <anotace>Väčšina z nás pozná začiatky mangy a mladšieho súrodenca anime. Ako to však bolo so športom v nich.
+            Kedy môžeme hovoriť o prvom športovom anime a ako ovplyvnili reálny japonský šport a zase naopak? Nájde sa v
+            športovom anime nejaké zrnko skutočnosti a pravdivého príbehu, alebo sú naše obľúbené postavy iba výmyslom
+            fantázie autorov? Dozviete sa všetko, čo ste chceli aj nechceli vedieť o športe v mange a anime.
+        </anotace>
+        <anotace_en></anotace_en>
+        <medailonek>Fanúšik anime a cartoon oldies (najmä tých z minulého tisícročia), predovšetkým športového
+            zamerania. Organizátor alebo pomocník na mnohých slovenských festivaloch. Zanietený tvorca prednášok
+            všetkého druhu.
+        </medailonek>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>64</priorita>
+        <board_image>/img/program2017/saint_board.jpg</board_image>
+        <foto_image>/img/program2017/saint_foto.jpg</foto_image>
+        <smallboard_image>/img/program2017/saint_smallboard.jpg</smallboard_image>
+        <images>
+            <image>/img/program2017/saint_screen1.jpg</image>
+            <image>/img/program2017/saint_screen2.jpg</image>
+            <image>/img/program2017/saint_screen3.jpg</image>
+        </images>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>56</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>P</typ>
+        <nazev>Anime is (not) for kids!</nazev>
+        <nazvy_dalsi>
+            <nazev_dalsi lang="en">Anime is (not) for kids!</nazev_dalsi>
+        </nazvy_dalsi>
+        <prednasejici>Annamaria Arcidiacono</prednasejici>
+        <code>annamaria</code>
+        <anotace>&lt;b&gt;Přednáška v angličtině&lt;/b&gt;&lt;br/&gt;
+            How Anime and cartoons are seen in Italy and what it means: Censorship of the majority of imported animated
+            series as seen too violent or heavily loaded with inappropriate contents.
+        </anotace>
+        <anotace_en>&lt;b&gt;Talk in English&lt;/b&gt;&lt;br/&gt;
+            How Anime and cartoons are seen in Italy and what it means: Censorship of the majority of imported animated
+            series as seen too violent or heavily loaded with inappropriate contents.
+        </anotace_en>
+        <medailonek>I'm an Italian, long time anime/manga lover. I've been collaborating in Italy with the ToChio group
+            for years, participating in the organization of the Etna Comics ComicCon 2 years in a row, plus a series of
+            smaller events all over Sicily. I've been writing about TV shows and Anime for ToChio since I've joined them
+            and I've been fansubbing anime and tv shows with subsfactor.it and other smaller groups for 8 years.
+        </medailonek>
+        <medailonek_en>I'm an Italian, long time anime/manga lover. I've been collaborating in Italy with the ToChio
+            group for years, participating in the organization of the Etna Comics ComicCon 2 years in a row, plus a
+            series of smaller events all over Sicily. I've been writing about TV shows and Anime for ToChio since I've
+            joined them and I've been fansubbing anime and tv shows with subsfactor.it and other smaller groups for 8
+            years.
+        </medailonek_en>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>82</priorita>
+        <board_image>/img/program2017/annamaria_board.png</board_image>
+        <foto_image>/img/program2017/annamaria_foto.jpg</foto_image>
+        <smallboard_image>/img/program2017/annamaria_smallboard.png</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>57</id>
+        <zobrazovat>true</zobrazovat>
+        <time tid="13">
+            <start>
+                <datum>19. 5.</datum>
+                <cas>19:30</cas>
+                <stamp>2017-05-19T19:30:00+02:00</stamp>
+                <timestamp>201705191930</timestamp>
+            </start>
+            <konec>
+                <datum>19. 5.</datum>
+                <cas>21:00</cas>
+                <stamp>2017-05-19T21:00:00+02:00</stamp>
+                <timestamp>201705192100</timestamp>
+            </konec>
+            <sal>Br</sal>
+            <poznamka/>
+        </time>
+        <typ>B</typ>
+        <nazev>Vějíř – autogramiáda a beseda</nazev>
+        <prednasejici>Kobuta</prednasejici>
+        <code>vejir</code>
+        <anotace>Zajímá vás, jak vypadají a co jsou zač autoři tuzemské mangy? Jste zvědaví, kolik času zabere vytvořit
+            krátký příběh do Vějíře? Nebo si jen chcete trochu pokecat, potřást rukou a říct si o věnování? Máte
+            jedinečnou možnost si v rámci besedy a autogramiády autory letošních příspěvků odchytit!
+        </anotace>
+        <anotace_en></anotace_en>
+        <medailonek>Kobuta o.s., Občanské sdružení, jehož cílem je podpora autorů české manga scény</medailonek>
+        <odkazy>
+            <odkaz label="Kobuta">http://www.kobuta.cz/</odkaz>
+        </odkazy>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>0</priorita>
+        <board_image>/img/program2017/vejir_board.png</board_image>
+        <smallboard_image>/img/program2017/vejir_smallboard.png</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>58</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>H</typ>
+        <nazev>Konzolová sekce</nazev>
+        <code>konzole</code>
+        <anotace>Máte-li rádi vzrušení nejen z bojových her, tak neváhejte a zavítejte do tradičního konzolového koutku.
+            Můžete se těšit na klasické a osvědčené hity ze sérií Soul Calibur, Naruto či Tekken. I tentokrát budeme v
+            provozu nonstop. Zúčastněte se také turnajů.
+        </anotace>
+        <anotace_en></anotace_en>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>0</priorita>
+        <board_image>/img/program2017/konzole_board.jpg</board_image>
+        <smallboard_image>/img/program2017/konzole_smallboard.jpg</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>59</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>C</typ>
+        <nazev>Konzolová sekce – Turnaje</nazev>
+        <code>konzoleturnaj</code>
+        <anotace>Letos jsou v Konzolové sekci v plánu turnaje v následujících hrách: Mortal Kombat, Tekken Tag
+            Tournament 2, Soulcalibur V a Naruto Shippuden: Ultimate Ninja Storm 4.
+            Detaily ohledně časového rozpisu a přihlašování budou k dispozici na místě.
+        </anotace>
+        <anotace_en></anotace_en>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>0</priorita>
+        <board_image>/img/program2017/konzoleturnaj_board.jpg</board_image>
+        <smallboard_image>/img/program2017/konzoleturnaj_smallboard.jpg</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>60</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>P</typ>
+        <nazev>Foam4Noobs</nazev>
+        <nazvy_dalsi>
+            <nazev_dalsi lang="en">Foam4Noobs</nazev_dalsi>
+        </nazvy_dalsi>
+        <prednasejici>Kenny Cosplay Stuff</prednasejici>
+        <code>kenny</code>
+        <anotace>&lt;b&gt;Přednáška v angličtině&lt;/b&gt;
+            &lt;br/&gt;Kenny will be going the process of the typical foam build process. Depending on the people
+            attending's experience, he will be introducing them to the tools that they need to get started and crafting,
+            tips and tricks to streamline the process, sealing and finishing the builds. Hopefully by the end of it,
+            everyone will have learnt something new and for the new comers, they would have the confidence to start
+            their own builds.
+        </anotace>
+        <anotace_en>&lt;b&gt;Talk in English&lt;/b&gt;
+            &lt;br/&gt;Kenny will be going the process of the typical foam build process. Depending on the people
+            attending's experience, he will be introducing them to the tools that they need to get started and crafting,
+            tips and tricks to streamline the process, sealing and finishing the builds. Hopefully by the end of it,
+            everyone will have learnt something new and for the new comers, they would have the confidence to start
+            their own builds.
+        </anotace_en>
+        <medailonek>Kenny začal s cosplayem v květnu roku 2013. Specializuje se na brnění a tvoří kostýmy z filmů a her.
+            Užívá si vystupování na pódiu, což ho dovedlo až k reprezentaci Velké Británie v mezinárodních soutěžích
+            Cosplay World Masters a European Cosplay Gathering. Rád inspiruje ostatní, ať už předáváním svých vědomostí
+            a technik pomocí návodů, nebo přednášením na festivalech.
+
+        </medailonek>
+        <medailonek_en>Kenny was first introduced to cosplay in May 2013. Since then he had fell in love with the scene.
+            Specialising in armour building, he has created various cosplays from films and games. Kenny enjoys
+            performing on stage which has lead on to him representing the UK in the Cosplay World Masters and European
+            Cosplay Gathering. He aims to inspire others by sharing his knowledge and techniques via tutorials and
+            giving talks at conventions.
+
+        </medailonek_en>
+        <odkazy>
+            <odkaz label="FB page">https://www.facebook.com/kennycosplaystuff/</odkaz>
+        </odkazy>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>100</priorita>
+        <board_image>/img/program2017/kenny_board.jpg</board_image>
+        <smallboard_image>/img/program2017/kenny_smallboard.jpg</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>61</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>P</typ>
+        <nazev>Start creating cosplays</nazev>
+        <nazvy_dalsi>
+            <nazev_dalsi lang="en">Start creating cosplays</nazev_dalsi>
+        </nazvy_dalsi>
+        <prednasejici>Calypsen</prednasejici>
+        <code>calypsen</code>
+        <anotace>&lt;b&gt;Přednáška v angličtině&lt;/b&gt;&lt;br/&gt;
+            I would like to speak to new cosplayers and beginners. Show them how to plan the work and from what to
+            start. Give advices what tools might be useful or how to work with particular materials like EVA foam or
+            worbla. Tell a bit about priming and painting, in general all the basic knowledge about creating costume.
+        </anotace>
+        <anotace_en>&lt;b&gt;Talk in English&lt;/b&gt;&lt;br/&gt;
+            I would like to speak to new cosplayers and beginners. Show them how to plan the work and from what to
+            start. Give advices what tools might be useful or how to work with particular materials like EVA foam or
+            worbla. Tell a bit about priming and painting, in general all the basic knowledge about creating costume.
+        </anotace_en>
+        <medailonek>Mladá cosplayerka z Poznaně, Polska. Cosplaye vyrábí asi tři roky a nejradši tvoří fantasy brnění.
+            Vytvořila například kostýmy na Novu ze Starcraftu, Dianu z League of Legends nebo Mercy z Overwatche. Často
+            jako cosplayerka pracuje v herním průmyslu, je známá tvořením kostýmu pro firmu Cenega, také se zúčastnila
+            události Overwatch All Stars v kostýmu D.va.
+
+        </medailonek>
+        <medailonek_en>Young cosplayer based in Poznan, Poland. She’s been making costumes for 3 years now and she loves
+            creating fantasy armors. She made costumes such as Nova from Starcraft, Diana from League of Legends or
+            Mercy from Overwatch. She’s often working in a gaming industry as a cosplayer, she’s known for creating
+            costumes for Cenega, she was also at the Overwatch All Starts event as D.Va.
+        </medailonek_en>
+        <odkazy>
+            <odkaz label="FB page">https://www.facebook.com/CalypsenCosplay/</odkaz>
+        </odkazy>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>100</priorita>
+        <board_image>/img/program2017/calypsen_board.jpg</board_image>
+        <smallboard_image>/img/program2017/calypsen_smallboard.jpg</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>62</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>C</typ>
+        <nazev>Turnaj v Retroherně</nazev>
+        <code>retroturnaj</code>
+        <anotace>RetroHerna vyhlašuje turnaj v Super Bombermanovi na SNES! Přesné zařazení
+            do programu bude specifikováno, přihlašovat se můžete na místě od začátku
+            festivalu. Optimální počet soutěžících je 20 a na první tři čekají odměny
+            sponzorované Animefestem!
+        </anotace>
+        <anotace_en></anotace_en>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>0</priorita>
+        <board_image>/img/program2017/retroturnaj_board.png</board_image>
+        <smallboard_image>/img/program2017/retroturnaj_smallboard.png</smallboard_image>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>63</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>H</typ>
+        <nazev>RetroHerna</nazev>
+        <code>retro</code>
+        <anotace>Interaktivní muzeum herní historie
+            &lt;br/&gt;
+            Kluci a holky z RetroHerny pro vás připravili ty největší pecky na
+            PlayStation, NES, SNES, N64, Sega Mega Drive, Sega Master System, Atari
+            Jaguar a další, to vše na originálních konzolích a původních CRT
+            televizorech. Na své si přijdou také příznivci DOSovek a obecně počítačové
+            klasiky a chybět nebudou ani turnaje o ceny a retroherní merch. Přijďte si
+            k nám užít kapku nostalgie a pořádnou porci zábavy!
+            Pokud chcete projekt podpořit, nebo se o něm dozvědět víc, koukněte na
+            &lt;a href="http://www.retroherna.cz"&gt;RetroHerna.cz&lt;/a&gt; nebo na &lt;a
+            href="https://www.facebook.com/RetroHerna"&gt;Facebook RetroHerny&lt;/a&gt;.
+        </anotace>
+        <anotace_en></anotace_en>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>0</priorita>
+        <board_image>/img/program2017/retro_board.png</board_image>
+        <smallboard_image>/img/program2017/retro_smallboard.png</smallboard_image>
+        <images>
+            <image>/img/program2017/retro_screen1.png</image>
+        </images>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>64</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>P</typ>
+        <nazev>Jaoizování maskulinních videoher</nazev>
+        <prednasejici>Lucie „Nagat“ Bryndová</prednasejici>
+        <code>nagat</code>
+        <anotace>Aneb od Metal Gay Solid po Link: Call of the Wild.&lt;br/&gt;&lt;br/&gt;
+
+            Varování: Tohle bude přednáška o feminismu.
+            &lt;br/&gt;To znamená, že se na ní bude mluvit o feminismu. O feminismu jakožto o skutečných genderových
+            studiích. Takže to bude nuda a vy tam pravděpodobně nechcete být. Nemá smysl číst anotaci dál. Prostě ji
+            zavřete a běžte číst jinou.
+            &lt;br/&gt;
+            Ostatní z vás, kteří se cítí na nějaký mentální průplach, přednáška provede zobrazením, sexualizací a
+            objektivizací mužů ve hrách. Pomocí několika případových studií si ukážeme, jaké jsou parametry pro ještě
+            únosnou teplost hry („Není to gay, když je to Big Boss.“) a co už gameři a jejich křehká maskulinita
+            nezvládnou (Mobius Final Fantasy). Pro ty hodně zapálené se chystá něco málo ze základů feministické teorie
+            o kyborzích, traps, nějací těhotní muži a podobné. Prostě to nejhorší, co průměrnou internety odkojenou
+            fudžoši napadne, když se jí dostane do rukou hra dělaná pro mužné muže.
+        </anotace>
+        <anotace_en></anotace_en>
+        <medailonek>Legenda českého jaoi/slash blogingu z časů, které jsou dávnou minulostí. Samozvaný queer studies
+            akademik a obecně neoblíbená osoba. Po nějaké době strávené v ústraní pod falešnou identitou se vrací. To,
+            že je zpátky znamená, že se nikdo neobtěžoval ji najít a střelit do hlavy. Nebo jde o její nemrtvou verzi,
+            klon nebo hologram. Těžko říct. Každopádně je zpátky, má tři draky a je ještě cyničtější, než si pamatujete.
+        </medailonek>
+        <film>
+            <jazyk>jp+cz</jazyk>
+        </film>
+        <copyright>©</copyright>
+        <priorita>95</priorita>
+        <board_image>/img/program2017/nagat_board.jpg</board_image>
+        <foto_image>/img/program2017/nagat_foto.png</foto_image>
+        <smallboard_image>/img/program2017/nagat_smallboard.jpg</smallboard_image>
+        <images>
+            <image>/img/program2017/nagat_screen1.jpg</image>
+            <image>/img/program2017/nagat_screen2.jpg</image>
+            <image>/img/program2017/nagat_screen3.jpg</image>
+            <image>/img/program2017/nagat_screen4.jpg</image>
+        </images>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>65</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>F</typ>
+        <nazev>Japonský masakr motorovou pilou</nazev>
+        <nazvy_dalsi>
+            <nazev_dalsi lang="en">Bloody Chainsaw Girl</nazev_dalsi>
+            <nazev_dalsi lang="jp">血まみれスケバンチェーンソー</nazev_dalsi>
+        </nazvy_dalsi>
+        <code>chainsaw</code>
+        <anotace>Giko je taková normální japonská středoškolačka z malého města. Vlastně ne úplně normální, spíš trochu
+            rebelka bez příčiny. Přesto má kamarády, pohodový život a víceméně obyčejné spolužačky. Alespoň do chvíle,
+            než je mírně vyšinutá třídní šprtka začne měnit na svérázné technozombie. Brzy zůstává Giko prakticky jediná
+            nezměněná a musí se rozhodnout – utéct, zavolat policii… nebo popadnout motorovou pilu a jít si pubertální
+            rozepře s geniální Nero vyříkat z očí do očí.
+            &lt;br/&gt;&lt;br/&gt;&lt;i&gt;Přístupno od 15 let&lt;/i&gt;</anotace>
+        <anotace_en>Delinquent high school student Giko wields a chainsaw
+            like no other, a talent she inherited from her long
+            deceased father. On her way to school, Giko is attacked
+            by Sayuri, an assassin sent by rival student Nero. It
+            seems that Nero has been burning the mad scientist oil
+            and turning fellow classmates into cyborgs that obey
+            her every command. The nefarious Nero is looking to
+            add Giko into her collection of demented soldiers.
+            Although able to repel Sayuri’s attack, Giko is hardly
+            out of the fire, and finds herself targeted by not only
+            Nero, but also by all the members of her school’s Ninja
+            Club, including Hanzo, their female leader who, in
+            addition to a cyborg makeover, received a sex change
+            from Nero. Will Giko be able to ward off the onslaught
+            of mutant cyborgs and return to her life as a normal
+            delinquent high-schooler? Not if Nero has her way!
+        </anotace_en>
+        <odkazy>
+            <odkaz label="oficiální web">http://www.vap.co.jp/chimamire/</odkaz>
+        </odkazy>
+        <film>
+            <rezie>Hiroki Jamaguči</rezie>
+            <scenar>Rei Mikamoto (manga), Micunori Fukuhara</scenar>
+            <hudba>Masahiko Horikura</hudba>
+            <rezie_en>Hiroki Yamaguchi</rezie_en>
+            <scenar_en>Rei Mikamoto (manga), Mitsunori Fukuhara</scenar_en>
+            <hudba_en>Masahiko Horikura</hudba_en>
+            <produkce>VAP</produkce>
+            <rok>2016</rok>
+            <delka>76 minut</delka>
+            <jazyk>jp+czen</jazyk>
+            <premiera>cz</premiera>
+        </film>
+        <copyright>©2016 Rei Mikamoto, PUBLISHED BY KADOKAWA CORPORATION/VAP all rights reserved.</copyright>
+        <priorita>0</priorita>
+        <board_image>/img/program2017/chainsaw_board.jpg</board_image>
+        <smallboard_image>/img/program2017/chainsaw_smallboard.jpg</smallboard_image>
+        <images>
+            <image>/img/program2017/chainsaw_screen1.jpg</image>
+        </images>
+        <video>
+            <flv>/img/program2017/chainsaw_video.flv</flv>
+        </video>
+        <flash_meta></flash_meta>
+    </akce>
+    <akce>
+        <id>82</id>
+        <zobrazovat>true</zobrazovat>
+        <typ>F</typ>
+        <nazev>Perfect Blue</nazev>
+        <nazvy_dalsi>
+            <nazev_dalsi lang="jp">パーフェクトブルー</nazev_dalsi>
+        </nazvy_dalsi>
+        <code>blue</code>
+        <anotace>&lt;em&gt;Promítání k oslavě 20. výročí uvedení filmu&lt;/em&gt;&lt;br/&gt;
+            Zpěvačka Kirigoe Mima opustí své úspěšné hudební trio a těší se na skvělou kariéru herečky. Získá sice
+            vysněnou roli, ale její život se začíná rozpadat. Skutečnost a halucinace se mísí v hrozivém světě, kde
+            nevinnost umírá a sny se mění v noční můry. Objeví se webová stránka, která popisuje nejintimnější detaily
+            Mimina života. Jejím přátelům a kolegům vyhrožuje neznámý šílenec. Když začnou umírat, propadá se bezmocná a
+            vyděšená Mima do nebezpečných paranoidních představ.
+        </anotace>
+        <anotace_en>&lt;em&gt;20th Anniversary Screening&lt;/em&gt;&lt;br/&gt;
+            Pop singer Kirigoe Mima looks forward to a bright new career when she quits her successful trio to become an
+            actress. When she lands a role in a sexually-charged murder mystery, Mima's life begins to fall apart.
+            Reality and hallucination merge into a terrifying world where innocence is lost and dreams become
+            nightmares.
+            Quickly descending into a dangerous state of paranoid delusions, Mima watches as internet sites appear
+            describing every intimate detail of her life. She is helpless and afraid as her associates are threatened
+            and killed by a mysterious stalker.
+        </anotace_en>
+        <film>
+            <rezie>Satoši Kon</rezie>
+            <scenar>Sadajuki Murai</scenar>
+            <hudba>Masahiro Ikumi</hudba>
+            <rezie_en>Satoshi Kon</rezie_en>
+            <scenar_en>Sadayuki Murai</scenar_en>
+            <hudba_en>Masahiro Ikumi</hudba_en>
+            <produkce>Madhouse</produkce>
+            <rok>1997</rok>
+            <delka>80 minut</delka>
+            <jazyk>jp+czen</jazyk>
+        </film>
+        <copyright>© 1997 MADHOUSE</copyright>
+        <priorita>0</priorita>
+        <board_image>/img/program2017/blue_board.jpg</board_image>
+        <smallboard_image>/img/program2017/blue_smallboard.jpg</smallboard_image>
+        <images>
+            <image>/img/program2017/blue_screen1.jpg</image>
+            <image>/img/program2017/blue_screen2.jpg</image>
+            <image>/img/program2017/blue_screen3.jpg</image>
+        </images>
+        <flash_meta></flash_meta>
+    </akce>
+</program>

@@ -1,0 +1,125 @@
+#scene_gallery{
+    width: 1920px;
+    height: 1080px;
+    position: relative;
+}
+#mainPic{
+    width: 500px;
+    height: 750px;
+    left: 635px;
+    bottom: 115px;
+    position: relative;
+}
+#mainPic img{
+    width: 500px;
+    height: 740px;
+    border: 1px solid;
+    border-radius: 25px;
+    box-shadow: 12px 10px 10px gray;
+    bottom: 600px;
+    position: relative;
+}
+#sign{
+    width: 1000px;
+    height: 136px;
+    float: left;
+    position: relative;
+    font-family: "Impact", "Charcoal", sans-serif;
+    font-size: 6em;
+    color: #2F96DE;
+    padding-top: 25px;
+    padding-left: 50px;
+}
+#clock{
+    width: 820px;
+    height: 136px;
+    float: right;
+    position: relative;
+    font-family: "Impact", "Charcoal", sans-serif;
+    font-size: 4em;
+    color: #2F96DE;
+    padding-top: 25px;
+    padding-right: 50px;
+    text-align: right;
+}
+#middlePart{
+    width: 1900px;
+    height: 540px;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    top: 270px;
+    right:  10px;
+    left: 10px;
+    background: linear-gradient(#205AB8, #2F96DE);
+}
+#leftPic{
+    width: 325px;
+    height: 450px;
+    bottom: 120px;
+    float: left;
+    position: relative;
+    overflow: hidden;
+}
+#leftPic img{
+    right: 25px;
+    width: 350px;
+    height: 450px;
+    position: relative;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+    border-radius: 25px;
+}
+#rightPic{
+    width: 325px;
+    height: 450px;
+    bottom: 120px;
+    float: right;
+    position: relative;
+    overflow: hidden;
+}
+#rightPic img{
+    width: 350px;
+    height: 450px;
+    position: relative;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+    border-radius: 25px;
+}
+#rightMidPic{
+    width: 350px;
+    height: 450px;
+    bottom: 120px;
+    right: 15px;
+    float: right;
+    position: relative;
+    overflow: hidden;
+}
+#rightMidPic img{
+    width: 350px;
+    height: 450px;
+    position: relative;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+    border-radius: 25px;
+}
+#leftMidPic{
+    width: 350px;
+    height: 450px;
+    bottom: 120px;
+    left: 15px;
+    float: left;
+    position: relative;
+    overflow: hidden;
+}
+#leftMidPic img{
+    width: 350px;
+    height: 450px;
+    position: relative;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+    border-radius: 25px;
+}
+#buffer{
+    display: none;
+}

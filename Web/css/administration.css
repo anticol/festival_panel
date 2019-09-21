@@ -1,0 +1,24 @@
+.settings-card-style {
+    border-bottom: 1px solid #2F96DE;
+    background-color: #2F96DE;
+}
+
+/* label focus color */
+.input-field input[type=text]:focus + label {
+    color: #68C3F9;
+}
+
+/* label underline focus color */
+.input-field input[type=text]:focus {
+    border-bottom: 1px solid #68C3F9;
+    box-shadow: 0 1px 0 0 #68C3F9;
+}
+
+/* icon prefix focus color */
+.input-field .prefix.active {
+    color: #68C3F9;
+}
+
+.input-field i {
+    color: #00b0ff;
+}

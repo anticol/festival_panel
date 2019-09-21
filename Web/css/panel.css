@@ -1,0 +1,318 @@
+@font-face {
+    font-family: 'Panton Light';
+    src: url('../fonts/Panton_Family/Fontfabric - Panton-Light.otf');
+}
+
+@font-face {
+    font-family: 'Panton Extra Bold';
+    src: url('../fonts/Panton_Family/Fontfabric - Panton-ExtraBold.otf');
+}
+
+#viewport {
+    font-family: Arial;
+    width: 1920px;
+    height: 1080px;
+    border: 4px solid black;
+}
+
+#scene_program {
+    padding: 0 auto;
+    width: 1920px;
+    height: 1080px;
+    text-align: center;
+}
+
+#scene_competition{
+    padding: 0 auto;
+    width: 1920px;
+    height: 1080px;
+}
+
+#scene_social {
+    padding: 0 auto;
+    width: 1920px;
+    height: 1080px;
+    text-align: center;
+
+}
+
+#scene_static {
+    width: 1920px;
+    height: 1080px;
+    /*background-image: url("../img/sponsors.PNG");*/
+    background-size: 1920px 1080px;
+    background-repeat: no-repeat;
+    text-align: center;
+
+}
+
+#xClock {
+    z-index: 400;
+    display: none;
+    color: #2F96DE;
+    position: absolute;
+    font-weight: 900 !important;
+    left: 1776px;
+    font-size: 41px;
+    padding: 8px;
+    border-radius: 15px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    font-weight: bold;
+    font-family: Arial;
+    top: 24px;
+}
+
+#message {
+
+}
+
+.info {
+    font-size: 60px;
+    font-family: "Arial Black";
+}
+
+#throbber {
+    position:absolute;
+    top: 460px;
+    left: 940px;
+}
+
+#program {
+    -webkit-border-image: url("../img/gradient.png") 100;
+    -o-border-image: url("../img/gradient.png") 100; 
+    border-image: url("../img/gradient.png") 100;
+    border-right: 5px solid lightskyblue;
+    float: left;
+    height: 1080px;
+    width: 960px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+#main {
+    height: 676px;
+    width: 960px;
+}
+
+#optional {
+    background-image: url("../img/gradient.png");
+    background-repeat: repeat-x;
+    height: 404px;
+    width: 960px;
+}
+
+.program_item {
+    background-color: transparent;
+    border-bottom: 1px solid #FFFFFF;
+    color: #FFFFFF;
+    height: 134px;
+    width: 960px;
+}
+
+.main {
+    background: #FFFFFF;
+    border-bottom: 1px solid lightskyblue;
+}
+
+/*.program_item:last-child {*/
+    /*border-bottom-width: 0;*/
+/*}*/
+
+.place {
+    font-size: 30px;
+    font-weight: 500;
+    float: left;
+    height: 25px;
+    padding: 50px 0;
+    width: 250px;
+}
+
+.main .place {
+    color: #2F96DE;
+}
+
+.main .lecture {
+    color: #22B573;
+}
+
+.main .workshop {
+    color: #8F65C1;
+}
+
+.main .contest {
+    color: #FBB03B;
+}
+
+.main .screening {
+    color: #D66785;
+}
+
+.main .break {
+    color: #B3B3B3;
+}
+
+.time_now,
+.time_next {
+    margin: 0;
+    padding: 0;
+    width: 70px;
+}
+
+.now {
+    float: left;
+    height: 70px;
+    width: 700px;
+}
+
+.time_now {
+    float: left;
+    font-size: 25px;
+    font-weight: 500;
+    height: 62px;
+    padding: 15px 0;
+    width: 70px;
+}
+
+.title_now {
+    font-size: 30px;
+    font-weight: 500;
+    float: left;
+    padding-top: 25px;
+    padding-left: 30px;
+    text-align: left;
+    width: 600px;
+}
+
+.next {
+    font-size: 20px;
+    float: right;
+    height: 45px;
+    width: 620px;
+}
+
+.title_next {
+    font-weight: 500;
+    float: right;
+    padding-top: 15px;
+    text-align: right;
+    width: 480px;
+}
+
+.time_next {
+    float: right;
+    margin: 0 30px;
+    padding-top: 3px;
+}
+
+#highlights {
+    float: left;
+    width: 955px;
+    background-color: rgba(47, 150, 222,0.2);
+}
+
+#recommended,
+#messages {
+    height: 530px;
+    /*padding-top: 50px;*/
+    width: 955px;
+    margin-left: 70px;
+}
+
+#recommended{
+    height: 630px;
+}
+#messages{
+    height: 450px;
+
+}
+
+h1 {
+    margin: 0 auto;
+    text-align: left;
+    color: #2F96DE;
+    font-size: 40pt;
+    position: relative;
+    top:15px;
+}
+
+ #messages > ul{
+    text-align: left;
+    font-size: 27pt;
+    color: #2F96DE;
+    position: relative;
+    left: 50px;
+     list-style-image: url('../img/list_star.png');
+     width:750px;
+
+ }
+
+ .message_item{
+    position:relative;
+     bottom: 15px;
+ }
+
+ .recomended_program{
+     background-image: url("../img/gradient.png");
+     background-repeat: repeat-x;
+     width: 850px;
+     height: 190px;
+     margin-top: 70px;
+     border-radius: 12px;
+ }
+
+ .img_star{
+     position: relative;
+     left: -340px;
+     top: 30px;
+ }
+
+ .img_other{
+     position: relative;
+     bottom: 252px;
+     left: 320px;
+ }
+ .recomended_program_info{
+     font-size: 24px;
+     width: 470px;
+     height: 150px;
+     position: relative;
+     left: 200px;
+     bottom: 99px;
+     text-align: left;
+     color: white;
+ }
+
+ .recomended_place{
+     position:relative;
+ }
+
+.recomended_author{
+    position:relative;
+}
+
+.recomended_time{
+    position:relative;
+}
+
+.recomended_name{
+    position:relative;
+}
+#delimeter{
+    width: 10px;
+    height: 1080px;
+    background-color: white;
+    position: absolute;
+    top: 12px;
+    z-index: 100;
+}
+
+.votes{
+    font-size: 80pt;
+    position: absolute;
+    top: 430px;
+}

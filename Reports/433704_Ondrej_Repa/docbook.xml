@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns="http://docbook.org/ns/docbook" version="5.0" xml:lang="en">
+    <info>
+        <title>Animefest - Report</title>
+        <author>
+            <personname>Ondrej Repa</personname>
+            <email>433704@mail.muni.cz</email>
+        </author>
+    </info>
+    <section>
+        <title>Introduction</title>
+        <para>Our task was to create an information screen for the festival Animefest.cz. It had to include multiple
+            features such as displaying the current program from XML data, fetching images from Instagram with a
+            specified hashtag, fully operational administration interface and so on.
+        </para>
+	<para>My role in the team was to develop front-end of the web application that is split into cycling scenes
+            where each scene shows a different content. I designed program scene dynamically updating its content
+            according to XML file retrieved from the server. This included parsing and visualizing XML data in form of
+            auto generated HTML document. For this purpouse I used JavaScript programming language.
+        </para>
+    </section>
+    <section>
+        <title>Solution</title>        
+        <para>JavaScript is a client-side scripting language running in every modern web browser. It implements a
+            Document Object Model (DOM) which is a basic interface to process and access the tree representation of XML
+            data. HTML DOM allows to dynamically generate HTML and CSS code from JavaScript and contains the browser
+            environment. JavaScript also includes an Asynchronous JavaScript and XML (AJAX) which supports asynchronous
+            communication with webservers using HTTP protocol. Using AJAX it is possible to send HTTP requests and
+            receive responses. In JavaScript, AJAX is implemented by XMLHttpRequest object that can fetch XML data
+            without refreshing a web browser. Combining HTML DOM and AJAX it is easy to create and update content of a
+            HTML page.
+        </para>
+        <para>Action flow of the program scene was to fetch XML file with infomation about all events at Animefest.
+            After the server's response I parse the XML document and spilt events into two groups by time. The scene
+            always displays which events are currently held in main halls and also events in other minor halls if there
+            are any. For each hall I displayed its name, the current running event and the next event with its title and
+            time. Every half an hour I reshfreshed the scene with data from XML document. If a refresh button on admin
+            page is clicked, the flow is started all over again.
+        </para>
+        <para>I cooperated with my teammates on a design of the scene and a handling admin refresh events. Beside the
+            programming we collaborated on writing GitLab wiki pages and presentation slides.
+        </para>
+    </section>
+    <section>
+        <title>Conclusion</title>
+        <para>The project was successfully launch on Animefest and we received many positive reactions. I was honored to
+            be a part of team and participate on develpment of a useful product for Animefest guests which helped to
+            easily orientate in a festival's program. I consider it as a great opportunity to improve my skills as a
+            front-end web developer.
+        </para>
+    </section>
+</article>
+
+

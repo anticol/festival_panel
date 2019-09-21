@@ -1,0 +1,19 @@
+Nadpisy (modrá)	#2F96DE
+Nadpisy (bílá, transparetní bílá) #FFFFFF, #FFFFFF (60 %)
+Prednasky (zelená) #22B573
+Workshopy (fialová) #8F65C1
+Soutaze (zltá)	#FBB03B
+Premietania (cervená) #D66785
+Pauza (sedá) #B3B3B3
+Gradient (modrá. tm. modrá) #2F96DE, #2059B7
+Background pravej poloky (transparentna modrá) #2F96DE (20 %)
+
+Rezy fontu su "light" a "extrabold"
+Velikosti nejvacsie nadpisy 54 pt
+Hodiny 40pt
+Dalsi program, sály, sál/cas/autor v doporuceno 23 pt
+Zbytok 27 pt
+
+
+
+

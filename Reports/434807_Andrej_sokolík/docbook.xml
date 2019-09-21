@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns="http://docbook.org/ns/docbook" version="5.0" xml:lang="cz">
+    <info >
+        <title>Animefest - Report</title>
+        <author>
+            <personname></personname>
+            <email></email>
+        </author>
+    </info>
+    
+    <section>
+        <title>Introduction</title>
+        <para>Our task was to create an information screen for the festival Animefest.cz. It had to include multiple features such as displaying the current program from XML data, fetching images from Instagram with a specified hashtag, fully operational administration interface and so on.</para>
+        <para></para>
+    </section>
+    <section>
+        <title>Solution</title>
+        <para>
+        	On our first team meeting, we have divided the tasks, that we should develop so that we can work most independently to me was assigned the task of process posts from Instagram and develop a gallery of pictures.
+        </para>
+        <para>
+        	In the processing of posts from Instagram, I used the Instagram api for getting posts, and I continued these posts have modified into such a frontend what was desired by the client.
+        </para>
+        <para>
+        	Gallery of images, which was my second task consisted in the fact that I'm using the jQuery loaded from the directory gallery on the server all files with the extension .png, .jpg, .gif, etc. Then I've shifted these files between several div's in an endless loop, and thus created the impression of animation an automatically played gallery.
+        </para>
+        <para></para>
+    </section>
+    <section>
+        <title>Conclusion</title>
+        <para>
+        	The project was developed according to the requirements entered by the client within the required deadline. I think that this project was a pleasant variegation of study, because it was a team project and a project that was real used to Animefeste acting in Brno which for me was personally a great experience.
+        </para>
+        <para></para>
+    </section>
+</article>

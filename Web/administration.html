@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Animefest Admin</title>
+
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+    <link type="text/css" rel="stylesheet" href="css/administration.css">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+<body bgcolor="#f8fdff">
+<nav>
+    <div class="nav-wrapper" style="background-color: #2F96DE;">
+        <a href="#!" class="brand-logo center">Animefest Admin</a>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row">
+        <div class="col s12 m12 l12">
+            <div class="section scroll-spy">
+                <h2 class="header">Festival Panel Settings</h2>
+                <br>
+                <div class="card-panel white">
+                    <div class="row section">
+                        <h4 class="col s12 m3 center-align">Program data</h4>
+                        <div class="col s12 m9 right-align">
+                            <p></p>
+                            <a id="refreshButton" class="waves-effect waves-light btn-large light-blue accent-2 right">Refresh XML</a>
+                        </div>
+                        <br/>
+                    </div>
+                </div>
+                <br>
+                <div class="card">
+                    <div class="card-image settings-card-style z-depth-1">
+                        <br>
+                        <div class="container" style="width: 94%";>
+                            <div class="row">
+                                <h4 class="center-align col s12 m3">Messages</h4>
+                                <div class="col s12 m9 right-align">
+                                    <p></p>
+                                </div>
+                            </div>
+                        </div>
+                        <a onclick="presentAddMessageModal()" class="btn-floating halfway-fab waves-effect waves-light light-blue accent-2"><i class="material-icons">add</i></a>
+                    </div>
+                    <div class="card-content">
+                        <span class="card-title"></span>
+                        <div class="container" style="width: 94%;">
+                            <div class="row">
+                                <div class="col s12">
+                                    <ul id="messagesList" class="collection">
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br>
+                <div class="card">
+                    <div class="card-image settings-card-style z-depth-1">
+                        <br>
+                        <div class="container" style="width: 94%";>
+                            <div class="row">
+                                <h4 class="center-align col s12 m3">Static URLs</h4>
+                                <div class="col s12 m9 right-align">
+                                    <p></p>
+                                </div>
+                            </div>
+                        </div>
+                        <a onclick="presentAddUrlModal()" class="btn-floating halfway-fab waves-effect waves-light light-blue accent-2"><i class="material-icons">add</i></a>
+                    </div>
+                    <div class="card-content">
+                        <span class="card-title"></span>
+                        <div class="container" style="width: 94%;">
+                            <div class="row">
+                                <div class="col s12">
+                                    <ul id="urlsList" class="collection">
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br>
+                <div class="card-panel white">
+                    <div class="row section">
+                        <h4 class="col s12 m3 center-align">Instagram Tags</h4>
+                        <div class="col s12 m9">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div class="row section">
+                        <div class="col s12">
+                            <div id="tagsBar" class="chips chips-placeholder"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="addMessageModal" class="modal">
+        <div class="modal-content">
+            <h4>Add a new message</h4>
+            <br>
+            <div class="input-field">
+                <i class="material-icons prefix">message</i>
+                <input id="addMessageInput" type="text">
+                <label id="addMessageLabel" for="addMessageInput">Message text</label>
+            </div>
+        </div>
+        <div class="modal-footer">
+            <a href="#!" class="modal-action modal-close waves-effect waves-red btn-flat">Dismiss</a>
+            <a href="#!" onclick="addNewMessage()" class="modal-action waves-effect waves-green btn-flat">Confirm</a>
+        </div>
+    </div>
+
+    <div id="addUrlModal" class="modal">
+        <div class="modal-content">
+            <h4>Add a new url</h4>
+            <br>
+            <div class="input-field">
+                <i class="material-icons prefix">code</i>
+                <input id="addUrlInput" type="text">
+                <label id="addUrlLabel" for="addMessageInput">New url</label>
+            </div>
+        </div>
+        <div class="modal-footer">
+            <a href="#!" class="modal-action modal-close waves-effect waves-red btn-flat">Dismiss</a>
+            <a href="#!" onclick="addNewUrl()" class="modal-action waves-effect waves-green btn-flat">Confirm</a>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="js/materialize.min.js"></script>
+<script src="https://www.gstatic.com/firebasejs/3.7.4/firebase.js"></script>
+<script src="js/firebaseHelper.js"></script>
+<script src="js/administration.js"></script>
+</body>
+</html>

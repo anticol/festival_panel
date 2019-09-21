@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>Animefest - Report</title><meta name="generator" content="DocBook XSL Stylesheets V1.79.1"/><link rel="stylesheet" type="text/css" href="docbook.css" /></head><body><div xml:lang="en" class="article"><div class="titlepage"><div><div><h1 class="title"><a id="idm45603244047296"/>Animefest - Report</h1></div><div><div class="author"><h3 class="author">Ondrej Repa</h3><code class="email">&lt;<a class="email" href="mailto:433704@mail.muni.cz">433704@mail.muni.cz</a>&gt;</code></div></div></div><hr/></div><div class="toc"><p><strong>Table of Contents</strong></p><dl class="toc"><dt><span class="section"><a href="#idm45603244042528">Introduction</a></span></dt><dt><span class="section"><a href="#idm45603217366576">Solution</a></span></dt><dt><span class="section"><a href="#idm45603217317712">Conclusion</a></span></dt></dl></div><div class="section"><div class="titlepage"><div><div><h2 class="title"><a id="idm45603244042528"/>Introduction</h2></div></div></div><p>Our task was to create an information screen for the festival Animefest.cz. It had to include multiple
+            features such as displaying the current program from XML data, fetching images from Instagram with a
+            specified hashtag, fully operational administration interface and so on.
+        </p><p>My role in the team was to develop front-end of the web application that is split into cycling scenes
+            where each scene shows a different content. I designed program scene dynamically updating its content
+            according to XML file retrieved from the server. This included parsing and visualizing XML data in form of
+            auto generated HTML document. For this purpouse I used JavaScript programming language.
+        </p></div><div class="section"><div class="titlepage"><div><div><h2 class="title"><a id="idm45603217366576"/>Solution</h2></div></div></div><p>JavaScript is a client-side scripting language running in every modern web browser. It implements a
+            Document Object Model (DOM) which is a basic interface to process and access the tree representation of XML
+            data. HTML DOM allows to dynamically generate HTML and CSS code from JavaScript and contains the browser
+            environment. JavaScript also includes an Asynchronous JavaScript and XML (AJAX) which supports asynchronous
+            communication with webservers using HTTP protocol. Using AJAX it is possible to send HTTP requests and
+            receive responses. In JavaScript, AJAX is implemented by XMLHttpRequest object that can fetch XML data
+            without refreshing a web browser. Combining HTML DOM and AJAX it is easy to create and update content of a
+            HTML page.
+        </p><p>Action flow of the program scene was to fetch XML file with infomation about all events at Animefest.
+            After the server's response I parse the XML document and spilt events into two groups by time. The scene
+            always displays which events are currently held in main halls and also events in other minor halls if there
+            are any. For each hall I displayed its name, the current running event and the next event with its title and
+            time. Every half an hour I reshfreshed the scene with data from XML document. If a refresh button on admin
+            page is clicked, the flow is started all over again.
+        </p><p>I cooperated with my teammates on a design of the scene and a handling admin refresh events. Beside the
+            programming we collaborated on writing GitLab wiki pages and presentation slides.
+        </p></div><div class="section"><div class="titlepage"><div><div><h2 class="title"><a id="idm45603217317712"/>Conclusion</h2></div></div></div><p>The project was successfully launch on Animefest and we received many positive reactions. I was honored to
+            be a part of team and participate on develpment of a useful product for Animefest guests which helped to
+            easily orientate in a festival's program. I consider it as a great opportunity to improve my skills as a
+            front-end web developer.
+        </p></div></div></body></html>
